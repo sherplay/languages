@@ -77,7 +77,7 @@
       "y": "et"
     },
     "notes_list": {
-      "add_category": "ajouter une catégorie",
+      "add_category": "Ajouter une Catégorie",
       "edit_note": "Note éditée"
     },
     "onboarding": {
@@ -91,7 +91,7 @@
         "title": "Partagez-le par e-mail"
       },
       "two": {
-        "content": "facilement vos notes en fonction du contenu",
+        "content": "Organisez facilement vos notes en fonction du contenu",
         "title": "Organiser"
       }
     },

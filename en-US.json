@@ -7,7 +7,7 @@
     "preference": "Preferences",
     "feedback": "Feedback",
     "legal": "Legal",
-    "more_info": "More Infos"
+    "more_info": "More info"
   },
   "search": {
     "placeholder": "Search for..."
@@ -16,11 +16,11 @@
     "onboarding": {
       "one": {
         "title": "Record your notes",
-        "content": "during the consultation, we transcribe it for you"
+        "content": "during the consultation, we transcribe it for you."
       },
       "two": {
         "title": "Organize",
-        "content": "easily your notes depending on the content"
+        "content": "Easily your notes depending on the content"
       },
       "three": {
         "title": "Share it via Email",
@@ -147,6 +147,6 @@
   "Examen físico": "Physical exam",
   "Anamnesis": "Anamnesis",
   "Antecedentes": "Background",
-  "empty": "Login field cannot be empty",
+  "empty": "Email field cannot be empty",
   "empty_password": "Password field cannot be empty"
 }

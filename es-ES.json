@@ -2,7 +2,7 @@
   "Anamnesis": "Anamnesis",
   "Antecedentes": "Antecedentes",
   "Diagnóstico y tratamiento o peticiones": "Diagnóstico y tratamiento o peticiones",
-  "Lectura de pruebas": "Lectura de pruebas",
+  "Lectura de pruebas": "Test analysis",
   "Examen físico": "Examen físico",
   "Skip": "Más tarde",
   "casos": "Aún no tienes casos",
@@ -13,8 +13,8 @@
     "feedback": "Feedback",
     "help": "Ayuda",
     "legal": "Legal",
-    "more_info": "Mas Info",
-    "preference": "Preferencias",
+    "more_info": "Mas info",
+    "preference": "Ajustes",
     "profile": "Perfil",
     "web": "Beeseet web"
   },
@@ -23,7 +23,7 @@
     "account": {
       "anonymous": "Anónimo",
       "fields": {
-        "accentFromCity": "Dinos un par de ciudades que influencien tu acento",
+        "accentFromCity": "Ciudades que influencian tu acento",
         "age": "Edad",
         "lastname": "Apellido",
         "name": "Nombre",
@@ -77,7 +77,7 @@
       "y": "y"
     },
     "notes_list": {
-      "add_category": "Agregar Categoría",
+      "add_category": "Asignar Categoría",
       "edit_note": "Editar Nota"
     },
     "onboarding": {
@@ -88,7 +88,7 @@
       },
       "two": {
         "title": "Clasifica",
-        "content": "fácilmente tus notas según su contenido\""
+        "content": "Clasifica fácilmente tus notas según su contenido"
       },
       "three": {
         "content": "solo copia y pega donde haga falta",
