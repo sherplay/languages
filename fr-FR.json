@@ -1,0 +1,151 @@
+{
+  "Anamnesis": "Anamnèse",
+  "Antecedentes": "Contexte",
+  "Diagnóstico y tratamiento o peticiones": "Diagnostic et traitement ou demandes",
+  "Examen físico": "Examen physique",
+  "Lectura de pruebas": "Lecture d'épreuves",
+  "Skip": "Sauter",
+  "casos": "Vous n'avez pas encore de cas",
+  "empieza": "Commencez et créez votre première note!",
+  "empty": "Le champ de connexion ne peut pas être vide",
+  "empty_password": "Le champ du mot de passe ne peut pas être vide",
+  "menu": {
+    "feedback": "Feedback",
+    "help": "Aidez-moi",
+    "legal": "Légal",
+    "more_info": "Plus d'infos",
+    "preference": "Préférences",
+    "profile": "Profil",
+    "web": "Beeseet web"
+  },
+  "notice_under_version": "Version Beta - Propriété de Sherplay.com",
+  "pages": {
+    "account": {
+      "anonymous": "Anonyme",
+      "cant_chant_picture_yet": "Vous ne pouvez pas encore modifier votre photo de profil",
+      "empty_text": "Veuillez saisir du texte",
+      "fields": {
+        "accentFromCity": "Quelles villes influencent votre accent parlé",
+        "age": "Âge",
+        "lastname": "Nom de famille",
+        "mainHospital": "Hôpital principal",
+        "name": "Prénom",
+        "profession": "Profession",
+        "secondaryHospital": "Hôpital secondaire",
+        "speciality": "Spécialité",
+        "typOfPractice": "Type de pratique"
+      },
+      "logout": "Se déconnecter",
+      "saved": "enregistré",
+      "title": "Compte"
+    },
+    "cases_list": {
+      "create_a_case": "Créer un cas",
+      "demo_mode": {
+        "button": "S'inscrire",
+        "content": "Pour débloquer toutes les fonctionnalités de Beeseet, créez simplement votre compte",
+        "title": "Vous êtes maintenant en mode démo de Beeseet"
+      }
+    },
+    "export": {
+      "all_visit": "Toutes les visites",
+      "last_visit": "Derniere visite",
+      "mail_not_valid": "L'e-mail: '{mail}' n'est pas valide",
+      "sent_to": "Une copie de vos notes a été envoyée à l'e-mail:",
+      "what_to_send": "Que voulez-vous envoyer?",
+      "where_to_send": "Où voulez-vous envoyer les notes?",
+      "send_case": "Envoyer le cas",
+      "send_via_email": "Envoyer par e-mail"
+    },
+    "login": {
+      "access_without_register": "Accès à un compte démo sans inscription",
+      "create_account": "Créer un compte",
+      "create_and_accept": "En créant un compte, vous acceptez notre\n",
+      "demo_account": "Compte démo",
+      "email": "Email",
+      "google_connect": "Connectez-vous avec Google",
+      "have_account": "Avoir un compte? se connecter",
+      "login": "S'identifier",
+      "no_account_register": "Besoin d'un compte? S'inscrire",
+      "or": "ou",
+      "password": "Mot de passe",
+      "policy": "Politique de confidentialité",
+      "register": "S'inscrire",
+      "sign_up": "S'inscrire",
+      "signin": "se connecter",
+      "terms": "Termes et conditions",
+      "y": "et"
+    },
+    "notes_list": {
+      "add_category": "ajouter une catégorie",
+      "edit_note": "Note éditée"
+    },
+    "onboarding": {
+      "one": {
+        "content": "lors de la consultation, nous le transcrivons pour vous",
+        "title": "Enregistrez vos notes"
+      },
+      "skip": "Sauter",
+      "three": {
+        "content": "copier-coller là où vous en avez besoin",
+        "title": "Partagez-le par e-mail"
+      },
+      "two": {
+        "content": "facilement vos notes en fonction du contenu",
+        "title": "Organiser"
+      }
+    },
+    "settings": {
+      "app_language": "Langue de l'application",
+      "langs": {
+        "catalan": "catalan",
+        "english": "Anglais",
+        "french": "français",
+        "spanish": "Espagnol"
+      },
+      "language": "Langue",
+      "speech_language": "Langue de reconnaissance vocale",
+      "title": "Réglages"
+    }
+  },
+  "popups": {
+    "delete_case": {
+      "cancel": "Annuler",
+      "confirm": "Supprimer",
+      "content": "Voulez-vous vraiment supprimer ce cas?",
+      "title": "Supprimer le cas?"
+    },
+    "delete_note": {
+      "cancel": "Annuler",
+      "confirm": "Supprimer",
+      "content": "Voulez-vous vraiment supprimer cette note?",
+      "title": "Supprimer la note?"
+    },
+    "logout": {
+      "cancel": "Annuler",
+      "confirm": "proche",
+      "content": "Voulez-vous vraiment fermer votre session?",
+      "title": "Se déconnecter"
+    },
+    "passbase": {
+      "fail": {
+        "content": "Nous avons eu des problèmes pour vérifier votre identité. Notre équipe vous contactera dans les plus brefs délais pour résoudre ce problème.",
+        "title": "Nous n'avons pas pu vérifier votre identité"
+      },
+      "pending": {
+        "title": "Votre identité est en cours de validation (cela prend généralement environ 24 heures)"
+      },
+      "success": {
+        "content": "Vous avez désormais un accès complet au cloud de Beeseet et votre profil social est vérifié.",
+        "title": "Votre identité a été vérifiée!"
+      },
+      "verif": {
+        "content": "Pour vous permettre d'entrer dans notre ruche, nous aurons besoin de votre carte d'identité professionnelle. Cela vous permettra d'accéder à toutes les fonctionnalités sociales de Beeseet.",
+        "title": "Vérifiez Votre Identité"
+      }
+    }
+  },
+  "search": {
+    "placeholder": "Rechercher..."
+  }
+}

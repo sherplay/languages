@@ -1,0 +1,152 @@
+{
+  "notice_under_version": "Version Beta - Property of Sherplay.com ",
+  "menu": {
+    "profile": "Profile",
+    "help": "Help",
+    "web": "Beeseet web",
+    "preference": "Preferences",
+    "feedback": "Feedback",
+    "legal": "Legal",
+    "more_info": "More Infos"
+  },
+  "search": {
+    "placeholder": "Search for..."
+  },
+  "pages": {
+    "onboarding": {
+      "one": {
+        "title": "Record your notes",
+        "content": "during the consultation, we transcribe it for you"
+      },
+      "two": {
+        "title": "Organize",
+        "content": "easily your notes depending on the content"
+      },
+      "three": {
+        "title": "Share it via Email",
+        "content": "copy paste where you need to"
+      },
+      "skip": "Skip"
+    },
+    "login": {
+      "create_account": "Create an Account",
+      "google_connect": "Log In with Google",
+      "signin": "Sign in",
+      "no_account_register": "Need an account? Register",
+      "have_account": "Have an account? Sign in",
+      "email": "Email",
+      "password": "Password",
+      "demo_account": "Demo Account",
+      "create_and_accept": "By creating an account, you are accepting our \n",
+      "terms": "Terms and Conditions",
+      "policy": "Privacy policy",
+      "or": "or",
+      "y": "and",
+      "sign_up": "Sign up",
+      "login": "Login",
+      "register": "Register",
+      "access_without_register": "Access to a demo account without registering"
+    },
+    "account": {
+      "title": "Account",
+      "logout": "Logout",
+      "anonymous": "Anonymous",
+      "empty_text": "Please enter some text",
+      "saved": "saved",
+      "cant_chant_picture_yet": "You can't change your profile picture yet",
+      "fields": {
+        "accentFromCity": "Which cities influence your spoken accent",
+        "name": "First name",
+        "lastname": "Last name",
+        "age": "Age",
+        "profession": "Profession",
+        "speciality": "Speciality",
+        "typOfPractice": "Type of practice",
+        "mainHospital": "Main Hospital",
+        "secondaryHospital": "Secondary Hospital"
+      }
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "speech_language": "Speech recognition language",
+      "app_language": "App language",
+      "langs": {
+        "spanish": "Spanish",
+        "english": "English",
+        "french": "French",
+        "catalan": "Catalan"
+      }
+    },
+    "export": {
+      "what_to_send": "What do you want to send?",
+      "last_visit": "Last visit",
+      "all_visit": "All the visits",
+      "where_to_send": "Where do you want to send the notes?",
+      "sent_to": "A copy of your notes has been sent to the email: ",
+      "mail_not_valid": "The email : '{mail}' is not valid",
+      "send_case": "Send case",
+      "send_via_email": "Send via email"
+    },
+    "notes_list": {
+      "add_category": "Add Category",
+      "edit_note": "Edit note"
+    },
+    "cases_list": {
+      "create_a_case": "Create a case",
+      "demo_mode": {
+        "title": "You are now in Beeseet's Demo Mode",
+        "content": "To unlock all the features of Beeseet, just create your account",
+        "button": "Sign up"
+      }
+    }
+  },
+  "popups": {
+    "logout": {
+      "title": "Logout",
+      "content": "Are you sure you want to close your session?",
+      "confirm": "Close",
+      "cancel": "Cancel"
+    },
+    "delete_case": {
+      "title": "Delete case?",
+      "content": "Are you sure you want to delete this case?",
+      "confirm": "Delete",
+      "cancel": "Cancel"
+    },
+    "delete_note": {
+      "title": "Delete note?",
+      "content": "Are you sure you want to delete this note?",
+      "confirm": "Delete",
+      "cancel": "Cancel"
+    },
+    "passbase": {
+      "verif": {
+        "title": "Verify your identity",
+        "content": "To let you get into our hive, we will need your professional ID. This will allow you to access all Beeseet's social features."
+      },
+      "success": {
+        "title": "Your identity has been verified!",
+        "content": "You have now full access to Beeseet’s cloud and your social profile is verified."
+      },
+      "pending": {
+        "title": "Your identity is in validation process (it usually takes about 24 hours)",
+        "content": ""
+      },
+      "fail": {
+        "title": "We couldn’t verify your identity",
+        "content": "We had problems verifying your identity. Our team will contact you as soon as possible to solve this problem."
+      }
+    }
+  },
+  "casos": "You don't have any cases yet",
+  "empieza": "Start and create your first note !",
+  "Skip": "Skip",
+  "Diagnóstico y tratamiento o peticiones": "Diagnosis and treatment or requests",
+  "Lectura de pruebas": "Proof reading",
+  "Examen físico": "Physical exam",
+  "Anamnesis": "Anamnesis",
+  "Antecedentes": "Background",
+  "empty": "Login field cannot be empty",
+  "empty_password": "Password field cannot be empty"
+}
