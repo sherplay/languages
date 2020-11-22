@@ -16,7 +16,7 @@
     "more_info": "Plus d'infos",
     "preference": "Préférences",
     "profile": "Profil",
-    "web": "Beeseet web"
+    "web": "Beeseet Desktop"
   },
   "notice_under_version": "Version Beta - Propriété de Sherplay.com",
   "pages": {
@@ -41,6 +41,8 @@
     },
     "cases_list": {
       "create_a_case": "Créer un cas",
+      "edit_case": "Editer le cas",
+      "delete_case" : "Supprimer le cas",
       "demo_mode": {
         "button": "S'inscrire",
         "content": "Pour débloquer toutes les fonctionnalités de Beeseet, créez simplement votre compte",
@@ -72,40 +74,80 @@
       "policy": "Politique de confidentialité",
       "register": "S'inscrire",
       "sign_up": "S'inscrire",
-      "signin": "se connecter",
+      "signin": "Se connecter",
       "terms": "Termes et conditions",
       "y": "et"
     },
     "notes_list": {
-      "add_category": "Ajouter une Catégorie",
-      "edit_note": "Note éditée"
+      "add_category": "ajouter une catégorie",
+      "edit_note": "Modifier une Note"
     },
     "onboarding": {
       "one": {
-        "content": "lors de la consultation, nous le transcrivons pour vous",
+        "content": "En dictant, vous générez des notes plus complètes et vos patients se sentent intégrés à la consultation.",
         "title": "Enregistrez vos notes"
       },
-      "skip": "Sauter",
+        "skip": "Sauter",
       "three": {
-        "content": "copier-coller là où vous en avez besoin",
-        "title": "Partagez-le par e-mail"
+        "content": "Utilisez la fonction de partage d'e-mails pour envoyer des notes pseudonymisées à des collègues ou des patients. Avec la version de bureau, vous pouvez copier et coller des notes en quelques secondes.",
+        "title": "Partagez vos notes"
       },
       "two": {
-        "content": "Organisez facilement vos notes en fonction du contenu",
+        "content": "Faites glisser chaque note vers la droite et classez-la en fonction de son moment de la visite. Faites glisser les cas et les notes sur le côté pour plus de fonctionnalités.",
         "title": "Organiser"
       }
     },
     "settings": {
       "app_language": "Langue de l'application",
       "langs": {
-        "catalan": "catalan",
+        "catalan": "Catalan",
         "english": "Anglais",
-        "french": "français",
+        "french": "Français",
         "spanish": "Espagnol"
       },
-      "language": "Langue",
-      "speech_language": "Langue de reconnaissance vocale",
+      "language": "Langage",
+      "speech_language": "Langue de dictée",
       "title": "Réglages"
+    },
+    "case": {
+      "create_note": "Créer une note",
+      "no_notes_desc": "Commencez par dicter votre première note!",
+      "no_notes_title": "Pas encore de notes",
+      "no_notes_placeholder": "Saisissez le texte de cette note ici ..."
+    },
+    "create_case": {
+      "added": "Cas ajouté",
+      "case_identifier": "Identifiant de cas",
+      "consent_by": "par",
+      "consent_date": "Consentement enregistré le:",
+      "consent_required": "Le consentement est requis",
+      "edit": "Modifier le cas",
+      "edited": "Cas mis à jour",
+      "i_have_consent": "En cochant cette case, je certifie avoir le consentement du patient pour enregistrer ses notes cliniques sur Beeseet.",
+      "id_non_empty": "Ne peux pas être vide",
+      "new": "Nouveau cas",
+      "save": "Enregistrer le cas"
+    },
+    "pics": {
+      "change_bg_color": "Changer la couleur d'arrière-plan",
+      "change_draw_color": "Changer la couleur du trait",
+      "crop": "Réduire",
+      "delete": "Retirer",
+      "delete_confirm": "Êtes-vous sûr de vouloir supprimer cette image?",
+      "deleted": "Éliminé",
+      "list_title": "Images",
+      "painter_preview": "Aperçu",
+      "pick_color": "Choisissez la couleur",
+      "save": "Sauvegarder",
+      "toggle_edit_btn": "Éditer",
+      "tooltip_clear": "Nettoyer",
+      "tooltip_redo": "Refaire",
+      "tooltip_undo": "Annuler",
+      "add_image": "Ajouter image"
+    },
+    "search": {
+      "change_terms": "Veuillez essayer d'autres termes de recherche",
+      "no_results": "Il n'y a pas de résultats"
     }
   },
   "popups": {
@@ -123,7 +165,7 @@
     },
     "logout": {
       "cancel": "Annuler",
-      "confirm": "proche",
+      "confirm": "Se déconnecter",
       "content": "Voulez-vous vraiment fermer votre session?",
       "title": "Se déconnecter"
     },
@@ -147,5 +189,48 @@
   },
   "search": {
     "placeholder": "Rechercher..."
-  }
+  },
+  "btn_accept": "Accepter",
+  "btn_continue": "Continuer",
+  "btn_done": "Terminé",
+  "btn_gotit": "Je l'ai!",
+  "btn_ok": "OK",
+  "errors": {
+    "cannot_load": "Impossible de charger les éléments pour le moment",
+    "duplicate_id_desc": "Il existe un cas avec cet identifiant",
+    "duplicate_id_err": "Id en double",
+    "duplicate_id_title": "L'identifiant existe déjà",
+    "op_failed": "L'opération a échoué",
+    "went_wrong": "Un problème est survenu"
+  },
+  "onboard": {
+    "first_case": {
+      "body": "Pour protéger la vie privée du patient, n'utilisez pas ses données personnelles comme identifiant de cas. Utilisez le numéro de dossier attribué pour faciliter votre recherche plus tard.",
+      "title": "Confidentialité des patients"
+    },
+    "first_rec_done": {
+      "title": "Corrige et complète",
+      "body": "Ici, vous pouvez modifier le texte et corriger les erreurs. Vous pouvez également ajouter des photos à cette note avant de l'enregistrer. Vous pouvez toujours le modifier ultérieurement"
+    },
+    "dictation": {
+      "tip10": "Lorsque vous dictez une LECTURE DE TESTS, organisez tous les rapports que vous souhaitez refléter dans l'historique et soyez prêt à dicter ce que vous pensez vraiment pertinent pour chacun d'eux.",
+      "tip1": "Dicter est un acte de communication, l'application et le patient doivent vous comprendre clairement.",
+      "tip11": "Lorsque vous photographiez le patient ou l'un de ses tests, assurez-vous de cacher son visage et toutes les données liées à son identité.",
+      "tip2": "Utilisez une vitesse modérée lors de la dictée pour assurer une transcription correcte.",
+      "tip3": "Les experts en traduction indiquent que dicter comme si vous expliquiez à un écolier de 8 ans est un bon moyen de savoir si vous le faites correctement.",
+      "tip4": "La synthèse est la clé. Évitez les longs monologues. Soyez précis sur les points clés que vous souhaitez collecter.",
+      "tip5": "Vous pouvez utiliser des signes de ponctuation dans votre dictée. Dites DEUX POINTS, POINT ET LOIN, etc. Au début, cela vous semblera bizarre, mais dans quelques jours, vous ne le remarquerez même pas.",
+      "tip6": "Utilisez la dictée pour être transparent. En impliquant le patient, il peut vous corriger au cas où vous commettriez une erreur dans les détails.",
+      "tip7": "Lorsque vous dictez un CONTEXTE, n'oubliez pas de mentionner: les maladies et les médicaments (utilisez leurs ordonnances ou leurs antécédents).",
+      "tip8": "Lorsque vous donnez une ANAMNÈSE, n'oubliez pas de mentionner: Réclamation principale? Quand? Comment? Qu'avez-vous essayé de résoudre ce problème? S'il est trop long ou comporte plusieurs plaintes, utilisez plusieurs notes pour cela.",
+      "tip9": "Lorsque vous donnez un EXAMEN PHYSIQUE, suivez un schéma de rapport des découvertes physiques: inspection, palpation, manœuvres, etc.",
+      "tip_title": "Tip"
+    }
+  },
+  "no": "Non",
+  "yes": "Oui",
+  "English": "Anglais",
+  "French": "Français",
+  "Spanish": "Espagnol",
+  "Catalan": "Catalan"
 }

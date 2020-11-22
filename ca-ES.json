@@ -1,151 +1,234 @@
 {
-  "Anamnesis": "Anamnesis",
-  "Antecedentes": "Antecedentes",
-  "Diagnóstico y tratamiento o peticiones": "Diagnóstico y tratamiento o peticiones",
-  "Lectura de pruebas": "Lectura de pruebas",
-  "Examen físico": "Examen físico",
-  "Skip": "Más tarde",
-  "casos": "Aún no tienes casos",
-  "empieza": "¡Empieza creando tu primera nota!",
-  "empty": "Email no puede estar vacío",
-  "empty_password": "Contraseña no puede estar vacía",
+  "btn_ok": "OK",
+  "btn_accept": "Acceptar",
+  "btn_gotit": "Entès",
+  "btn_continue": "Continuar",
+  "Anamnesis": "Anamnesi",
+  "Antecedentes": "Antecedents",
+  "Diagnóstico y tratamiento o peticiones": "Diagnòstic i tractament o peticions",
+  "Lectura de pruebas": "Lectura de proves",
+  "Examen físico": "Examen físic",
+  "Skip": "Més tard",
+  "casos": "Encara no tens casos",
+  "empieza": "Comença creant la teva primera nota!",
+  "empty": "Email no pot estar buit",
+  "empty_password": "Contrasenya no pot estar buida",
   "menu": {
     "feedback": "Feedback",
-    "help": "Ayuda",
+    "help": "Ajuda",
     "legal": "Legal",
-    "more_info": "Más info",
-    "preference": "Preferencias",
+    "more_info": "Mas Informació",
+    "preference": "Preferències",
     "profile": "Perfil",
-    "web": "Beeseet web"
+    "web": "Beeseet Desktop"
   },
-  "notice_under_version": "Versión Beta - Propiedad de Sherplay.com ",
+  "notice_under_version": "Versió Beta - Propietat de Sherplay.com",
   "pages": {
     "account": {
-      "anonymous": "Anónimo",
+      "anonymous": "anònim",
       "fields": {
-        "accentFromCity": "Ciudades que influencian tu acento",
-        "age": "Edad",
-        "lastname": "Apellido",
-        "name": "Nombre",
-        "profession": "Profesión",
+        "accentFromCity": "Digues-nos un parell de ciutats que influenciïn en el parlar",
+        "age": "edat",
+        "lastname": "cognom",
+        "name": "nom",
+        "profession": "professió",
         "mainHospital": "Hospital principal",
-        "secondaryHospital": "Hospital secundario",
-        "speciality": "Especialidad",
-        "typOfPractice": "Tipo de práctica"
+        "secondaryHospital": "Hospital secundari",
+        "speciality": "especialitat",
+        "typOfPractice": "Tipus de pràctica"
       },
-      "empty_text": "No puede ser vacio",
-      "logout": "Cerrar sesión",
-      "saved": "guardado",
-      "title": "Cuenta",
-      "cant_chant_picture_yet": "Todavía no puedes cambiar tu foto de perfil"
+      "empty_text": "No pot ser buit",
+      "logout": "Tancar sessió",
+      "saved": "guardat",
+      "title": "compte",
+      "cant_chant_picture_yet": "Encara no pots canviar la teva foto de perfil"
     },
     "cases_list": {
-      "create_a_case": "Crear un caso",
+      "create_a_case": "Crear un cas",
       "demo_mode": {
-        "button": "Regístrate",
-        "content": "Para desbloquear todas las characterísticas de Beeseet, solo tienes que crear tu cuenta",
-        "title": "Estás en el modo demostración de Beeseet"
+        "button": "Registra't",
+        "content": "Per desbloquejar totes les characterísticas de Beeseet, només has de crear el teu compte",
+        "title": "Estàs en la manera demostració de Beeseet"
       }
     },
     "export": {
-      "all_visit": "Todas las visitas",
+      "all_visit": "Totes les visites",
       "last_visit": "Última visita",
-      "mail_not_valid": "El correo electrónico: '{mail}' no es válido",
-      "sent_to": "Una copia de las notas fué enviada al email:",
-      "what_to_send": "¿Qué quieres enviar?",
-      "where_to_send": "¿Dónde quieres enviar las notas?",
-      "send_case": "Enviar caso",
-      "send_via_email": "Enviar por correo electrónico"
+      "mail_not_valid": "El correu electrònic: '{mail}' no és vàlid",
+      "sent_to": "Una còpia de les notes va ser enviada a l'email:",
+      "what_to_send": "Què vols enviar?",
+      "where_to_send": "On vols enviar les notes?",
+      "send_case": "Enviar cas",
+      "send_via_email": "Enviar per correu electrònic"
     },
     "login": {
-      "access_without_register": "Accede a un demo sin registro.",
-      "create_account": "Creación de cuenta",
-      "create_and_accept": "Al crear una cuenta, estás acceptando nuestros\n",
-      "demo_account": "Cuenta demo",
-      "email": "Email",
-      "google_connect": "Continuar con Google",
-      "have_account": "¿Tienes una cuenta? Conéctate",
-      "login": "Registrarse",
-      "no_account_register": "¿Necesitas una cuenta? Regístrate",
+      "access_without_register": "Accedeix a un demo sense registre.",
+      "create_account": "Creació de compte",
+      "create_and_accept": "A l'crear un compte, estàs acceptant els nostres\n",
+      "demo_account": "compte demo",
+      "email": "E-mail",
+      "google_connect": "Continuar amb Google",
+      "have_account": "Tens un compte? Connecta't",
+      "login": "Iniciar sessió",
+      "no_account_register": "Necessites un compte? Registra't",
       "or": "o",
-      "password": "Contraseña",
-      "policy": "Política de privacidad",
-      "register": "Regístrate",
-      "sign_up": "Regístrate",
-      "signin": "Conéctate",
-      "terms": "Términos y Condiciones",
-      "y": "y"
+      "password": "clau",
+      "policy": "Política de privacitat",
+      "register": "Registra't",
+      "sign_up": "Registra't",
+      "signin": "Connecta't",
+      "terms": "Termes i Condicions",
+      "y": "i"
     },
     "notes_list": {
-      "add_category": "Asignar Categoría",
-      "edit_note": "Editar Nota"
+      "add_category": "afegir Categoria",
+      "edit_note": "Edita Nota"
     },
     "onboarding": {
-      "skip": "Saltar",
+      "skip": "saltar",
       "one": {
-        "content": "durante la consulta, nosotros las transcribimmos por ti.",
-        "title": "Graba tus notas"
+        "content": "A l'dictar, generes notes més completes i els teus pacients se senten part de la consulta.",
+        "title": "Grava les teves notes"
       },
       "two": {
-        "title": "Clasifica",
-        "content": "Clasifica fácilmente tus notas según su contenido"
+        "title": "Classifica",
+        "content": "Feu lliscar cada nota cap a la dreta i classifiqueu-la segons el moment de la visita. Feu lliscar casos i notes cap als costats per obtenir més funcions."
       },
       "three": {
-        "content": "solo copia y pega donde haga falta",
-        "title": "Compártelas por email"
+        "content": "Utilitza la funció de compartir per correu electrònic per enviar notes pseudonimizadas a col·legues o pacients. Amb la versió d'escriptori pots copiar i enganxar notes en segons.",
+        "title": "Comparteix les teves notes"
       }
     },
     "settings": {
-      "app_language": "App language\n",
+      "app_language": "Idioma de l'aplicació",
       "langs": {
-        "catalan": "Catalán",
-        "english": "Inglés",
-        "french": "Francés",
-        "spanish": "Castellano"
+        "catalan": "Català",
+        "english": "Anglès",
+        "french": "Francès",
+        "spanish": "Castellà"
       },
-      "language": "Language",
-      "speech_language": "Lenguaje de reconocimiento de voz",
-      "title": "Preferencias"
+      "language": "Idioma",
+      "speech_language": "Llenguatge de l'dictat",
+      "title": "Preferències"
+    },
+    "create_case": {
+      "case_identifier": "Identificador de el cas",
+      "i_have_consent": "A l'marcar aquesta casella, certifique que tinc el consentiment de l'pacient per registrar de manera anònima les notes del seu cas en Beeseet.",
+      "consent_required": "Es requereix consentiment de l'pacient",
+      "consent_date": "Consentiment registrat el:",
+      "id_non_empty": "No pot estar buit",
+      "added": "cas agregat",
+      "consent_by": "per:",
+      "edit": "Cas",
+      "edited": "cas actualitzat",
+      "new": "nou Cas",
+      "save": "Desar Cas"
+    },
+    "case": {
+      "create_note": "Crea una nota",
+      "no_notes_desc": "Comença dictant la teva primera nota!",
+      "no_notes_title": "Encara no hi ha notes",
+      "no_notes_placeholder": "Introduïu el text d'aquesta nota aquí ..."
+    },
+    "search": {
+      "change_terms": "Intenta amb altres termes de cerca",
+      "no_results": "No hi ha resultats"
+    },
+    "pics": {
+      "change_bg_color": "Canviar color fons",
+      "change_draw_color": "Canviar color traç",
+      "crop": "retallar",
+      "delete": "eliminar",
+      "delete_confirm": "Estàs segur de voler eliminar aquesta imatge?",
+      "deleted": "Eliminada",
+      "list_title": "Imatges",
+      "painter_preview": "previsualització",
+      "pick_color": "Selecciona color",
+      "save": "Desar",
+      "toggle_edit_btn": "Edita",
+      "tooltip_clear": "netejar",
+      "tooltip_redo": "refer",
+      "tooltip_undo": "desfer",
+      "add_image": "Afegir imatge"
     }
   },
   "popups": {
     "delete_case": {
-      "cancel": "Cancelar",
-      "confirm": "Borrar",
-      "content": "¿Está seguro de que desea eliminar este caso?",
-      "title": "¿Eliminar caso?"
+      "cancel": "Cancel",
+      "confirm": "esborrar",
+      "content": "Esteu segur que voleu suprimir aquest cas?",
+      "title": "¿Eliminar cas?"
     },
     "delete_note": {
-      "cancel": "Cancelar",
-      "confirm": "Eliminar",
-      "title": "¿Borrar nota?",
-      "content": "¿Estás seguro que quieres eliminar esta nota?"
+      "cancel": "Cancel",
+      "confirm": "eliminar",
+      "title": "¿Esborrar nota?",
+      "content": "Estàs segur que vols eliminar aquesta nota?"
     },
     "logout": {
-      "cancel": "Cancelar",
-      "confirm": "Cerrar",
-      "content": "¿Estás seguro de que quieres cerrar tu sesión?",
-      "title": "Cerrar sesión"
+      "cancel": "Cancel",
+      "confirm": "Tancar",
+      "content": "Estàs segur que vols tancar la teva sessió?",
+      "title": "Tancar sessió"
     },
     "passbase": {
       "fail": {
-        "content": "Tuvimos inconvenientes validando tu identidad. Nuestro personal se pondrá en contacto contigo de inmediato para resolver este problema.",
-        "title": "No pudimos validar tu identidad"
+        "content": "Vam tenir inconvenients validant la teva identitat. El nostre personal es posarà en contacte amb tu immediatament per resoldre aquest problema.",
+        "title": "No vam poder validar la teva identitat"
       },
       "pending": {
-        "title": "Tu identidad está en proceso de validación (suele tardar unas 24h)"
+        "title": "La teva identitat està en procés de validació (sol trigar unes 24 hores)"
       },
       "success": {
-        "title": "Tu identidad ha sido aprobada!",
-        "content": "Ahora tienes acceso completo a todas las características sociales de Beeseet, además de contar con un perfil verificado."
+        "title": "La teva identitat ha estat aprovada!",
+        "content": "Ara tens accés complet a totes les característiques socials de Beeseet, a més de comptar amb un perfil verificat."
       },
       "verif": {
-        "content": "Para permitirte entrar en la colmena, es necesario validar tu documentación profesional. Esto te permitirá acceder a todas sus características.",
-        "title": "Valida tu identidad"
+        "content": "Per permetre entrar en el rusc, és necessari validar la teva documentació professional. Això et permetrà accedir a totes les seves característiques.",
+        "title": "Valida la teva identitat"
       }
     }
   },
   "search": {
-    "placeholder": "Buscar..."
-  }
+    "placeholder": "Cerca ..."
+  },
+  "errors": {
+    "cannot_load": "No es poden carregar elements en aquest instant",
+    "op_failed": "L'operació ha fallat",
+    "went_wrong": "Hi ha hagut un error",
+    "duplicate_id_desc": "Ja hi ha un cas amb aquest identificador.",
+    "duplicate_id_err": "identificador duplicat",
+    "duplicate_id_title": "Identificador ja existeix"
+  },
+  "onboard": {
+    "first_case": {
+      "body": "Per protegir la privacitat de l'pacient, no facis servir les seves dades personals com a identificador de cas. Utilitza el nombre de cas assignat per facilitar la seva recerca posteriorment.",
+      "title": "Privacitat de el pacient"
+    },
+    "first_rec_done": {
+      "title": "Corregeix i complementa",
+      "body": "Aquí podeu editar el text i corregir els errors. També podeu afegir fotos a aquesta nota abans de desar-la. Sempre el podeu tornar a editar més tard"
+    },
+    "dictation": {
+      "tip10": "Quan dictes 1 LECTURA DE PROVES, organitza tots els informes que vulguis reflectir en l'historial i prepara't a dictar el que realment et sembla rellevant de cada un.",
+      "tip1": "Dictar és un acte de comunicació, tant l'app com el pacient necessiten entendre't claramante.",
+      "tip11": "Quan registris fotogràficament a l'pacient o alguna de les seves proves, assegura't d'ocultar el seu rostre i qualsevol dada relacionada amb la seva identitat.",
+      "tip2": "Utilitza una velocitat moderada a l'dictar per a garantir una correcta transcripció.",
+      "tip3": "Experts en traducció indiquen que dictar com si li expliquessis a un escolar de 8 anys és una bona manera de saber si ho fas bé.",
+      "tip4": "És clau sintetitzar. Evita monòlegs llargs. Es concret en els punts claus que vols recol·lectar.",
+      "tip5": "Pots utilitzar signes de puntuació en el teu dictat. Vaig donar DOS PUNTS, PUNT IA PART, etc. A el principi es sentirà estrany, però en uns dies ni ho notaràs.",
+      "tip6": "Fes servir el dictat com una manera de ser transparent. A l'involucrar el pacient, aquest pot corregir en cas que t'equivoquis amb algun detall.",
+      "tip7": "Quan dictes 1 ANTECEDENT, recorda esmentar: malalties i medicació (fa servir les seves receptes mèdiques o la seva història anterior).",
+      "tip8": "Quan dictes 1 ANAMNESI, recorda esmentar: ¿Principal queixa? Quan? Com? Què ha intentat per solucionar-ho? Si és molt llarga o té diverses queixes, usa diverses notes per a això.",
+      "tip9": "Quan dictes 1 EXAMEN FÍSIC, segueix un esquema de com reportes les troballes físics: Inspecció, Palpació, Maniobres, etc.",
+      "tip_title": "Tip"
+    }
+  },
+  "btn_done": "Fet",
+  "no": "no",
+  "yes": "Si",
+  "English": "Anglès",
+  "French": "Francès",
+  "Spanish": "Castellà",
+  "Catalan": "Català"
 }

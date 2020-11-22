@@ -1,4 +1,15 @@
 {
+  "Spanish": "Español",
+  "English": "Inglés",
+  "French": "Francés",
+  "Catalan": "Catalán",
+  "no": "No",
+  "yes": "Si",
+  "btn_ok": "OK",
+  "btn_done": "Listo",
+  "btn_accept": "Aceptar",
+  "btn_gotit": "Entendido",
+  "btn_continue": "Continuar",
   "Anamnesis": "Anamnesis",
   "Antecedentes": "Antecedentes",
   "Diagnóstico y tratamiento o peticiones": "Diagnóstico y tratamiento o peticiones",
@@ -9,21 +20,50 @@
   "empieza": "¡Empieza creando tu primera nota!",
   "empty": "Email no puede estar vacío",
   "empty_password": "Contraseña no puede estar vacía",
+  "errors": {
+    "op_failed": "La operación ha fallado",
+    "went_wrong": "Ha ocurrido un error",
+    "cannot_load": "No se pueden cargar elementos en este instante",
+    "duplicate_id_title": "Identificador ya existe",
+    "duplicate_id_desc": "Ya existe un caso con ese identificador.",
+    "duplicate_id_err": "Identificador duplicado"
+  },
   "menu": {
     "feedback": "Feedback",
     "help": "Ayuda",
     "legal": "Legal",
-    "more_info": "Mas info",
-    "preference": "Ajustes",
+    "more_info": "Mas Info",
+    "preference": "Preferencias",
     "profile": "Perfil",
-    "web": "Beeseet web"
+    "web": "Beeseet Desktop"
   },
   "notice_under_version": "Versión Beta - Propiedad de Sherplay.com ",
   "pages": {
+    "search": {
+      "no_results": "No hay resultados",
+      "change_terms": "Intenta con otros términos de búsqueda"
+    },
+    "pics": {
+      "tooltip_undo": "Deshacer",
+      "tooltip_redo": "Rehacer",
+      "tooltip_clear": "Limpiar",
+      "painter_preview": "Previsualización",
+      "change_bg_color": "Cambiar color fondo",
+      "change_draw_color": "Cambiar color trazo",
+      "pick_color": "Selecciona color",
+      "crop": "Recortar",
+      "save": "Guardar",
+      "deleted": "Eliminada",
+      "delete": "Eliminar",
+      "delete_confirm": "¿Estás seguro de querer eliminar esta imágen?",
+      "list_title": "Imágenes",
+      "toggle_edit_btn": "Editar",
+      "add_image": "Agregar imágen"
+    },
     "account": {
       "anonymous": "Anónimo",
       "fields": {
-        "accentFromCity": "Ciudades que influencian tu acento",
+        "accentFromCity": "Dinos un par de ciudades que influencien tu acento",
         "age": "Edad",
         "lastname": "Apellido",
         "name": "Nombre",
@@ -47,6 +87,25 @@
         "title": "Estás en el modo demostración de Beeseet"
       }
     },
+    "case": {
+      "create_note": "Crea una nota",
+      "no_notes_title": "Aún no hay notas",
+      "no_notes_desc": "Usa los botones inferiores para comenzar a documentar este caso.",
+      "no_notes_placeholder": "Ingrese el texto de esta nota aquí ..."
+    },
+    "create_case": {
+      "case_identifier": "Identificador del caso",
+      "i_have_consent": "Al marcar esta casilla, certifico que tengo el consentimiento del paciente para registrar de manera anónima las notas de su caso en Beeseet.",
+      "consent_required": "Se requiere consentimiento del paciente",
+      "consent_date": "Consentimiento registrado el:",
+      "consent_by": "por:",
+      "id_non_empty": "No puede estar vacio",
+      "new": "Nuevo Caso",
+      "edit": "Editar Caso",
+      "save": "Guardar Caso",
+      "added": "Caso agregado",
+      "edited": "Caso actualizado"
+    },
     "export": {
       "all_visit": "Todas las visitas",
       "last_visit": "Última visita",
@@ -65,46 +124,46 @@
       "email": "Email",
       "google_connect": "Continuar con Google",
       "have_account": "¿Tienes una cuenta? Conéctate",
-      "login": "Registrarse",
+      "login": "Entrar",
       "no_account_register": "¿Necesitas una cuenta? Regístrate",
       "or": "o",
       "password": "Contraseña",
       "policy": "Política de privacidad",
       "register": "Regístrate",
-      "sign_up": "Regístrate",
+      "sign_up": "Crear cuenta",
       "signin": "Conéctate",
       "terms": "Términos y Condiciones",
       "y": "y"
     },
     "notes_list": {
-      "add_category": "Asignar Categoría",
+      "add_category": "Agregar Categoría",
       "edit_note": "Editar Nota"
     },
     "onboarding": {
       "skip": "Saltar",
       "one": {
-        "content": "durante la consulta, nosotros las transcribimmos por ti.",
+        "content": "Al dictar, generas notas más completas y tus pacientes se sienten parte de la consulta.",
         "title": "Graba tus notas"
       },
       "two": {
         "title": "Clasifica",
-        "content": "Clasifica fácilmente tus notas según su contenido"
+        "content": "Desliza cada nota hacia la derecha y clasifícala según la sección de la visita a la que pertenece. Deslizar casos y notas hacia los lados para más funciones."
       },
       "three": {
-        "content": "solo copia y pega donde haga falta",
-        "title": "Compártelas por email"
+        "content": "Usa la función de compartir por email para enviar notas pseudonimizadas a colegas o pacientes. Con la versión de escritorio puedes copiar y pegar notas en segundos.",
+        "title": "Comparte tus notas"
       }
     },
     "settings": {
-      "app_language": "App language\n",
+      "app_language": "Idioma de la App",
       "langs": {
         "catalan": "Catalán",
         "english": "Inglés",
         "french": "Francés",
         "spanish": "Castellano"
       },
-      "language": "Language",
-      "speech_language": "Lenguaje de reconocimiento de voz",
+      "language": "Idioma",
+      "speech_language": "Lenguaje del dictado",
       "title": "Preferencias"
     }
   },
@@ -147,5 +206,29 @@
   },
   "search": {
     "placeholder": "Buscar..."
+  },
+  "onboard": {
+    "first_case": {
+      "title": "Privacidad del paciente",
+      "body": "Para proteger la privacidad del paciente, no uses sus datos personales como identificador de caso. Utiliza el número de caso asignado para facilitar su búsqueda posteriormente."
+    },
+    "first_rec_done": {
+      "title": "Corrige y complementa",
+      "body": "Aquí puedes editar el texto y corregir posibles errores. También puedes agregar fotos a esta nota antes de guardarla. Siempre podrás volver a editarla luego"
+    },
+    "dictation": {
+      "tip_title": "Tip",
+      "tip1": "Dictar es un acto de comunicación, tanto la app como el paciente necesitan entenderte claramante.",
+      "tip2": "Utiliza una velocidad moderada al dictar para garantizar una correcta transcripción.",
+      "tip3": "Expertos en traducción indican que dictar como si le explicaras a un escolar de 8 años es una buena forma de saber si lo haces bien.",
+      "tip4": "Es clave sintetizar. Evita monólogos largos. Se concreto en los puntos claves que quieres recolectar.",
+      "tip5": "Puedes utilizar signos de puntuación en tu dictado. Di DOS PUNTOS, PUNTO Y APARTE, etc. Al principio se sentirá raro, pero en unos días ni lo notarás.",
+      "tip6": "Usa el dictado como una manera de ser transparente. Al involucrar al paciente, éste puede corregirte en caso que te equivoques con algún detalle.",
+      "tip7": "Cuando dictes un ANTECEDENTE, recuerda mencionar: enfermedades y medicación (usa sus recetas médicas o su historial anterior).",
+      "tip8": "Cuando dictes una ANAMNESIS, recuerda mencionar: ¿Principal queja? ¿Cuándo? ¿Cómo? ¿Qué ha intentado para solucionarlo? Si es muy larga o tiene varias quejas, usa varias notas para ello.",
+      "tip9": "Cuando dictes un EXÁMEN FÍSICO, sigue un esquema de como reportas los hallazgos físicos: Inspección, Palpación, Maniobras, etc.",
+      "tip10": "Cuando dictes una LECTURA DE PRUEBAS, organiza todos los reportes que quieras reflejar en el historial y prepárate a dictar lo que realmente te parece relevante de cada uno.",
+      "tip11": "Cuando registres fotográficamente al paciente o alguna de sus pruebas, asegúrate de ocultar su rostro y cualquier dato relacionado con su identidad."
+    }
   }
 }

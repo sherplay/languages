@@ -3,11 +3,11 @@
   "menu": {
     "profile": "Profile",
     "help": "Help",
-    "web": "Beeseet web",
+    "web": "Beeseet Desktop",
     "preference": "Preferences",
     "feedback": "Feedback",
     "legal": "Legal",
-    "more_info": "More info"
+    "more_info": "More Infos"
   },
   "search": {
     "placeholder": "Search for..."
@@ -16,15 +16,15 @@
     "onboarding": {
       "one": {
         "title": "Record your notes",
-        "content": "during the consultation, we transcribe it for you."
+        "content": "By dictating, you generate more complete notes and your patients feel part of the consultation."
       },
       "two": {
         "title": "Organize",
-        "content": "Easily your notes depending on the content"
+        "content": "Swipe each note to the right and classify it according to its moment of the visit. Slide cases and notes sideways for more features."
       },
       "three": {
-        "title": "Share it via Email",
-        "content": "copy paste where you need to"
+        "title": "Share your notes",
+        "content": "Use the email sharing feature to send pseudonymized notes to colleagues or patients. With the desktop version you can copy and paste notes in seconds."
       },
       "skip": "Skip"
     },
@@ -69,7 +69,7 @@
     "settings": {
       "title": "Settings",
       "language": "Language",
-      "speech_language": "Speech recognition language",
+      "speech_language": "Dictation language",
       "app_language": "App language",
       "langs": {
         "spanish": "Spanish",
@@ -94,11 +94,53 @@
     },
     "cases_list": {
       "create_a_case": "Create a case",
+      "edit_case": "Edit case",
+      "delete_case" : "Delete case",
       "demo_mode": {
         "title": "You are now in Beeseet's Demo Mode",
         "content": "To unlock all the features of Beeseet, just create your account",
         "button": "Sign up"
       }
+    },
+    "create_case": {
+      "case_identifier": "Case identifier",
+      "i_have_consent": "By checking this box, I certify that I have the patient's consent to record his clinical notes on Beeseet.",
+      "consent_required": "Consent is required",
+      "consent_date": "Consent registered on:",
+      "id_non_empty": "Cannot be empty",
+      "added": "Case added",
+      "consent_by": "by",
+      "edit": "Edit case",
+      "edited": "Case updated",
+      "new": "New Case",
+      "save": "Save Case"
+    },
+    "case": {
+      "create_note": "Create a note",
+      "no_notes_desc": "Start by dictating your first note!",
+      "no_notes_title": "No notes yet",
+      "no_notes_placeholder": "Enter text of this note here..."
+    },
+    "search": {
+      "change_terms": "Try with different search terms",
+      "no_results": "No results"
+    },
+    "pics": {
+      "change_bg_color": "Change background color",
+      "change_draw_color": "Change stroke color",
+      "crop": "Trim",
+      "delete": "Remove",
+      "delete_confirm": "Are you sure you want to delete this image?",
+      "deleted": "Eliminated",
+      "list_title": "Images",
+      "painter_preview": "Preview",
+      "pick_color": "Select color",
+      "save": "Save",
+      "toggle_edit_btn": "Edit",
+      "tooltip_clear": "Clean",
+      "tooltip_redo": "Redo",
+      "tooltip_undo": "Undo",
+      "add_image": "Add image"
     }
   },
   "popups": {
@@ -143,10 +185,53 @@
   "empieza": "Start and create your first note !",
   "Skip": "Skip",
   "Diagnóstico y tratamiento o peticiones": "Diagnosis and treatment or requests",
-  "Lectura de pruebas": "Test analysis",
+  "Lectura de pruebas": "Tests reading",
   "Examen físico": "Physical exam",
   "Anamnesis": "Anamnesis",
   "Antecedentes": "Background",
-  "empty": "Email field cannot be empty",
-  "empty_password": "Password field cannot be empty"
+  "empty": "Login field cannot be empty",
+  "empty_password": "Password field cannot be empty",
+  "btn_ok": "OK",
+  "btn_accept": "Accept",
+  "btn_gotit": "Got it!",
+  "btn_continue": "Continue",
+  "errors": {
+    "cannot_load": "Can't load items at this time",
+    "op_failed": "Operation failed",
+    "went_wrong": "Something went wrong",
+    "duplicate_id_desc": "There is an existing case with that id",
+    "duplicate_id_err": "Duplicate Id",
+    "duplicate_id_title": "Id already exists"
+  },
+  "onboard": {
+    "first_case": {
+      "body": "To protect the privacy of the patient, don't use their personal data as case identifier. Use the assigned case number to facilitate search later.",
+      "title": "Patient privacy"
+    },
+    "first_rec_done": {
+      "title": "Correct and enrichen",
+      "body": "Here you can edit the text and correct any errors. You can also add photos to this note before saving it. You can always edit it again later"
+    },
+    "dictation": {
+      "tip10": "When you dictate a TEST READING, organize all the reports that you want to reflect in the history and be prepared to dictate what you really think is relevant about each one.",
+      "tip1": "Dictating is an act of communication, both the app and the patient need to understand you clearly.",
+      "tip11": "When you photograph the patient or any of their tests, make sure to hide their face and any data related to their identity.",
+      "tip2": "Use a moderate speed when dictating to ensure correct transcription.",
+      "tip3": "Translation experts indicate that dictating as if you were explaining to an 8-year-old schoolboy is a good way to know if you are doing it right.",
+      "tip4": "Synthesizing is key. Avoid long monologues. Be specific about the key points you want to collect.",
+      "tip5": "You can use punctuation marks in your dictation. Say TWO POINTS, POINT AND AWAY, etc. At first it will feel weird, but in a few days you won't even notice it.",
+      "tip6": "Use dictation as a way to be transparent. By involving the patient, he or she can correct you in case you make a mistake in any detail.",
+      "tip7": "When dictating a BACKGROUND, remember to mention: illnesses and medications (use their prescriptions or past history)",
+      "tip8": "When giving an ANAMNESIS, remember to mention: Main complaint? When? How? What have you tried to fix it? If it's too long or has multiple complaints, use multiple notes for it.",
+      "tip9": "When you give a PHYSICAL EXAM, follow a scheme of how you report the physical findings: Inspection, Palpation, Maneuvers, etc.",
+      "tip_title": "Tip"
+    }
+  },
+  "btn_done": "Done",
+  "no": "No",
+  "yes": "Yes",
+  "English": "English",
+  "French": "French",
+  "Spanish": "Spanish",
+  "Catalan": "Catalan"
 }
