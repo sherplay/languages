@@ -42,7 +42,7 @@
     "cases_list": {
       "create_a_case": "Créer un cas",
       "edit_case": "Editer le cas",
-      "delete_case" : "Supprimer le cas",
+      "delete_case": "Supprimer le cas",
       "demo_mode": {
         "button": "S'inscrire",
         "content": "Pour débloquer toutes les fonctionnalités de Beeseet, créez simplement votre compte",
@@ -87,7 +87,7 @@
         "content": "En dictant, vous générez des notes plus complètes et vos patients se sentent intégrés à la consultation.",
         "title": "Enregistrez vos notes"
       },
-        "skip": "Sauter",
+      "skip": "Sauter",
       "three": {
         "content": "Utilisez la fonction de partage d'e-mails pour envoyer des notes pseudonymisées à des collègues ou des patients. Avec la version de bureau, vous pouvez copier et coller des notes en quelques secondes.",
         "title": "Partagez vos notes"

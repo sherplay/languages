@@ -81,6 +81,8 @@
     },
     "cases_list": {
       "create_a_case": "Crear un caso",
+      "delete_case": "Borrar caso",
+      "edit_case": "Editar caso",
       "demo_mode": {
         "button": "Regístrate",
         "content": "Para desbloquear todas las characterísticas de Beeseet, solo tienes que crear tu cuenta",

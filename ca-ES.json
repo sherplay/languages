@@ -49,7 +49,9 @@
         "button": "Registra't",
         "content": "Per desbloquejar totes les characterísticas de Beeseet, només has de crear el teu compte",
         "title": "Estàs en la manera demostració de Beeseet"
-      }
+      },
+      "delete_case": "Esborrar cas",
+      "edit_case": "Edita el cas"
     },
     "export": {
       "all_visit": "Totes les visites",
