@@ -81,6 +81,7 @@
     },
     "cases_list": {
       "create_a_case": "Crear un caso",
+      "no_cases_title": "Aún no hay casos",
       "delete_case": "Borrar caso",
       "edit_case": "Editar caso",
       "demo_mode": {

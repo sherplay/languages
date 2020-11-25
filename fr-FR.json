@@ -47,7 +47,8 @@
         "button": "S'inscrire",
         "content": "Pour débloquer toutes les fonctionnalités de Beeseet, créez simplement votre compte",
         "title": "Vous êtes maintenant en mode démo de Beeseet"
-      }
+      },
+      "no_cases_title": "Toujours pas de cas"
     },
     "export": {
       "all_visit": "Toutes les visites",

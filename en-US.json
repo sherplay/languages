@@ -100,7 +100,8 @@
         "title": "You are now in Beeseet's Demo Mode",
         "content": "To unlock all the features of Beeseet, just create your account",
         "button": "Sign up"
-      }
+      },
+      "no_cases_title": "No cases yet"
     },
     "create_case": {
       "case_identifier": "Case identifier",

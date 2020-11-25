@@ -51,7 +51,8 @@
         "title": "Estàs en la manera demostració de Beeseet"
       },
       "delete_case": "Esborrar cas",
-      "edit_case": "Edita el cas"
+      "edit_case": "Edita el cas",
+      "no_cases_title": "Encara no hi ha casos"
     },
     "export": {
       "all_visit": "Totes les visites",
