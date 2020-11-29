@@ -1,9 +1,9 @@
 {
-  "Anamnesis": "Motif de consultation",
+  "Anamnesis": "Anamnèse",
   "Antecedentes": "Contexte",
-  "Diagnóstico y tratamiento o peticiones": "Plan",
-  "Examen físico": "Exploration",
-  "Lectura de pruebas": "Diagnostic",
+  "Diagnóstico y tratamiento o peticiones": "Diagnostic et traitement ou demandes",
+  "Examen físico": "Examen physique",
+  "Lectura de pruebas": "Lecture d'épreuves",
   "Skip": "Sauter",
   "casos": "Vous n'avez pas encore de cas",
   "empieza": "Commencez et créez votre première note!",
