@@ -234,5 +234,9 @@
   "English": "English",
   "French": "French",
   "Spanish": "Spanish",
-  "Catalan": "Catalan"
+  "Catalan": "Catalan",
+  "Diagnóstico": "Diagnosis",
+  "Exploración": "Exploration",
+  "Motivo de la consulta": "Reason for consultation",
+  "Plan": "Plan"
 }
