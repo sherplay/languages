@@ -81,7 +81,10 @@
       "sign_up": "Registra't",
       "signin": "Connecta't",
       "terms": "Termes i Condicions",
-      "y": "i"
+      "y": "i",
+      "apple_connect": "Continuar amb Apple",
+      "reset_password_sent": "T'hem enviat un correu electrònic per restablir la contrasenya.",
+      "reset_pwd_btn": "Restablir la contrasenya."
     },
     "notes_list": {
       "add_category": "afegir Categoria",

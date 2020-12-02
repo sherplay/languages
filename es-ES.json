@@ -140,7 +140,10 @@
       "sign_up": "Crear cuenta",
       "signin": "Conéctate",
       "terms": "Términos y Condiciones",
-      "y": "y"
+      "y": "y",
+      "apple_connect": "Continuar con Apple",
+      "reset_password_sent": "Te hemos enviado un e-mail para restablecer la contraseña.",
+      "reset_pwd_btn": "Restablecer la contraseña."
     },
     "notes_list": {
       "add_category": "Agregar Categoría",

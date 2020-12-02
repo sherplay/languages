@@ -45,7 +45,10 @@
       "sign_up": "Sign up",
       "login": "Login",
       "register": "Register",
-      "access_without_register": "Access to a demo account without registering"
+      "access_without_register": "Access to a demo account without registering",
+      "apple_connect": "Continue with Apple",
+      "reset_password_sent": "We have sent you an email to reset your password.",
+      "reset_pwd_btn": "Reset your password."
     },
     "account": {
       "title": "Account",

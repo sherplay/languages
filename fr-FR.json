@@ -77,7 +77,10 @@
       "sign_up": "S'inscrire",
       "signin": "Se connecter",
       "terms": "Termes et conditions",
-      "y": "et"
+      "y": "et",
+      "apple_connect": "Continuer avec Apple",
+      "reset_password_sent": "Nous vous avons envoyé un e-mail pour réinitialiser votre mot de passe.",
+      "reset_pwd_btn": "Réinitialisez votre mot de passe."
     },
     "notes_list": {
       "add_category": "ajouter une catégorie",
