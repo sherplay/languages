@@ -206,7 +206,7 @@
     "duplicate_id_err": "identificador duplicat",
     "duplicate_id_title": "Identificador ja existeix",
     "emty_mail": "Si us plau, primer completi el seu correu electrònic",
-    "mail_not_valid": "El correu electrònic: '{mail}' no és vàlid",
+    "mail_not_valid": "El correu electrònic {mail} no és vàlid",
     "policy_check": "Ha d'acceptar els nostres Termes i Condicions i Política de privacitat per registrar-se"
   },
   "onboard": {

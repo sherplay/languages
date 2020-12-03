@@ -32,7 +32,7 @@
     "duplicate_id_desc": "Ya existe un caso con ese identificador.",
     "duplicate_id_err": "Identificador duplicado",
     "emty_mail": "Por favor, complete su correo electrónico",
-    "mail_not_valid": "El correo electrónico: '{mail}' no es válido",
+    "mail_not_valid": "El correo electrónico {mail} no es válido",
     "policy_check": "Debe aceptar nuestros Términos y Condiciones y Política de privacidad para registrarse"
   },
   "menu": {

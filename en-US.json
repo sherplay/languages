@@ -207,7 +207,7 @@
     "duplicate_id_err": "Duplicate Id",
     "duplicate_id_title": "Id already exists",
     "emty_mail": "Please fill in your email first",
-    "mail_not_valid": "Email: '{mail}' is not valid",
+    "mail_not_valid": "Email {mail} is not valid",
     "policy_check": "You must accept our Terms and Conditions and Privacy Policy to register"
   },
   "onboard": {
