@@ -205,7 +205,10 @@
     "duplicate_id_err": "Id en double",
     "duplicate_id_title": "L'identifiant existe déjà",
     "op_failed": "L'opération a échoué",
-    "went_wrong": "Un problème est survenu"
+    "went_wrong": "Un problème est survenu",
+    "emty_mail": "Veuillez d'abord remplir votre e-mail",
+    "mail_not_valid": "E-mail: \"{mail}\" n'est pas valide",
+    "policy_check": "Vous devez accepter nos conditions générales et notre politique de confidentialité pour vous inscrire"
   },
   "onboard": {
     "first_case": {

@@ -30,7 +30,10 @@
     "cannot_load": "No se pueden cargar elementos en este instante",
     "duplicate_id_title": "Identificador ya existe",
     "duplicate_id_desc": "Ya existe un caso con ese identificador.",
-    "duplicate_id_err": "Identificador duplicado"
+    "duplicate_id_err": "Identificador duplicado",
+    "emty_mail": "Por favor, complete su correo electrónico",
+    "mail_not_valid": "El correo electrónico: '{mail}' no es válido",
+    "policy_check": "Debe aceptar nuestros Términos y Condiciones y Política de privacidad para registrarse"
   },
   "menu": {
     "feedback": "Feedback",

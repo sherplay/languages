@@ -204,7 +204,10 @@
     "went_wrong": "Hi ha hagut un error",
     "duplicate_id_desc": "Ja hi ha un cas amb aquest identificador.",
     "duplicate_id_err": "identificador duplicat",
-    "duplicate_id_title": "Identificador ja existeix"
+    "duplicate_id_title": "Identificador ja existeix",
+    "emty_mail": "Si us plau, primer completi el seu correu electrònic",
+    "mail_not_valid": "El correu electrònic: '{mail}' no és vàlid",
+    "policy_check": "Ha d'acceptar els nostres Termes i Condicions i Política de privacitat per registrar-se"
   },
   "onboard": {
     "first_case": {

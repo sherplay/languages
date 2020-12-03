@@ -205,7 +205,10 @@
     "went_wrong": "Something went wrong",
     "duplicate_id_desc": "There is an existing case with that id",
     "duplicate_id_err": "Duplicate Id",
-    "duplicate_id_title": "Id already exists"
+    "duplicate_id_title": "Id already exists",
+    "emty_mail": "Please fill in your email first",
+    "mail_not_valid": "Email: '{mail}' is not valid",
+    "policy_check": "You must accept our Terms and Conditions and Privacy Policy to register"
   },
   "onboard": {
     "first_case": {
