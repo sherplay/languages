@@ -152,6 +152,20 @@
     "search": {
       "change_terms": "Veuillez essayer d'autres termes de recherche",
       "no_results": "Il n'y a pas de résultats"
+    },
+    "webonboarding": {
+      "one": {
+        "content": "Lorsque vous utilisez la version de bureau de Beeseet, les notes que vous enregistrez à partir de votre téléphone apparaissent en temps réel sur votre ordinateur. Si vous préférez, vous pouvez préparer vos valises à partir de l'ordinateur.",
+        "title": "Vos notes en temps réel"
+      },
+      "three": {
+        "content": "Utilisez la fonction de copie pour copier vos notes dans le presse-papiers en quelques secondes. Si vous avez besoin de copier une seule note, cliquez simplement dessus.",
+        "title": "Copier et coller"
+      },
+      "two": {
+        "content": "Vous n'avez pas le temps de corriger ou de classer les notes sur votre téléphone pendant la visite? Pas de problème, vous pouvez le faire facilement sur la version de bureau, comme vous le faites sur votre téléphone.",
+        "title": "Classer et corriger"
+      }
     }
   },
   "popups": {

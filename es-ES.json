@@ -169,6 +169,20 @@
         "title": "Comparte tus notas"
       }
     },
+    "webonboarding": {
+      "one": {
+        "content": "Cuando uses la versión de escritorio de Beeseet, las notas que grabes desde tu móvil aparecerán en tiempo real en tu ordenador. Si lo prefieres, puedes preparar tus casos desde el ordenador.",
+        "title": "Tus notas en tiempo real"
+      },
+      "two": {
+        "title": "Clasifica y corrige",
+        "content": "¿No tienes tiempo para corregir o clasificar las notas en tu móvil durante la visita? No hay problema, luego puedes hacerlo cómodamente en la versión de escritorio, igual que lo haces en tu móvil."
+      },
+      "three": {
+        "content": "Usa la función de copiar para copiar tus notas al portapapeles en segundos. Si necesitas copiar una sola nota, sólo tienes que hacer clic en ella.",
+        "title": "Copia y pega"
+      }
+    },
     "settings": {
       "app_language": "Idioma de la App",
       "langs": {

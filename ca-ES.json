@@ -156,6 +156,20 @@
       "tooltip_redo": "refer",
       "tooltip_undo": "desfer",
       "add_image": "Afegir imatge"
+    },
+    "webonboarding": {
+      "one": {
+        "content": "Quan utilitzeu la versió d'escriptori de Beeseet, les notes que enregistreu des del telèfon apareixeran en temps real a l'ordinador. Si ho preferiu, podeu preparar els vostres casos des de l’ordinador.",
+        "title": "Les teves notes en temps real"
+      },
+      "three": {
+        "content": "Utilitza la funció de copiar per copiar els teus notes a porta-retalls en segons. Si necessites copiar una sola nota, només has de fer clic.",
+        "title": "Còpia i enganxa"
+      },
+      "two": {
+        "content": "No teniu temps de corregir o classificar les notes del vostre telèfon durant la visita? No hi ha cap problema, podeu fer-ho fàcilment a la versió d'escriptori, tal com ho feu al telèfon.",
+        "title": "Classifica i corregeix"
+      }
     }
   },
   "popups": {

@@ -145,6 +145,20 @@
       "tooltip_redo": "Redo",
       "tooltip_undo": "Undo",
       "add_image": "Add image"
+    },
+    "webonboarding": {
+      "one": {
+        "content": "When you use the desktop version of Beeseet, the notes you record from your phone will appear in real time on your computer. If you prefer, you can prepare your cases from the computer.",
+        "title": "Your notes in real time"
+      },
+      "three": {
+        "content": "Use the copy feature to copy your notes to the clipboard in seconds. If you need to copy a single note, just click on it.",
+        "title": "Copy and paste"
+      },
+      "two": {
+        "content": "Don't have time to correct or classify the notes on your phone during the visit? No problem, you can do it easily on the desktop version, just as you do on your phone.",
+        "title": "Classify and correct"
+      }
     }
   },
   "popups": {
