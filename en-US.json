@@ -244,5 +244,7 @@
   "Diagnóstico": "Diagnosis",
   "Exploración": "Exploration",
   "Motivo de consulta": "Reason for consultation",
-  "Plan": "Plan"
+  "Plan": "Plan",
+  "copied": "Copied to clipboard",
+  "copied_note": "Note copied to clipboard"
 }

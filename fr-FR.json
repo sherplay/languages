@@ -243,5 +243,7 @@
   "Diagnóstico": "Diagnostic",
   "Exploración": "Exploration",
   "Motivo de consulta": "Raison de la consultation",
-  "Plan": "Plan"
+  "Plan": "Plan",
+  "copied": "Copié dans le presse-papier",
+  "copied_note": "Note copiée dans le presse-papiers"
 }
