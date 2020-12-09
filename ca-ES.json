@@ -245,6 +245,10 @@
       "tip8": "Quan dictes 1 ANAMNESI, recorda esmentar: ¿Principal queixa? Quan? Com? Què ha intentat per solucionar-ho? Si és molt llarga o té diverses queixes, usa diverses notes per a això.",
       "tip9": "Quan dictes 1 EXAMEN FÍSIC, segueix un esquema de com reportes les troballes físics: Inspecció, Palpació, Maniobres, etc.",
       "tip_title": "Tip"
+    },
+    "first_copy_web": {
+      "title": "Còpia i enganxa",
+      "body": "Fes clic a una nota en particular per copiar a al porta-retalls, o usa botó a la part inferior per copiar-totes"
     }
   },
   "btn_done": "Fet",

@@ -246,6 +246,10 @@
       "tip8": "Lorsque vous donnez une ANAMNÈSE, n'oubliez pas de mentionner: Réclamation principale? Quand? Comment? Qu'avez-vous essayé de résoudre ce problème? S'il est trop long ou comporte plusieurs plaintes, utilisez plusieurs notes pour cela.",
       "tip9": "Lorsque vous donnez un EXAMEN PHYSIQUE, suivez un schéma de rapport des découvertes physiques: inspection, palpation, manœuvres, etc.",
       "tip_title": "Tip"
+    },
+    "first_copy_web": {
+      "title": "Copier et coller",
+      "body": "Cliquez sur une note particulière pour la copier dans le presse-papiers, ou utilisez le bouton en bas pour les copier toutes"
     }
   },
   "no": "Non",

@@ -245,6 +245,10 @@
       "title": "Corrige y complementa",
       "body": "Aquí puedes editar el texto y corregir posibles errores. También puedes agregar fotos a esta nota antes de guardarla. Siempre podrás volver a editarla luego"
     },
+    "first_copy_web": {
+      "title": "Copia y pega",
+      "body": "Haz clic en una nota en particular para copiarla al portapapeles, o usa botón en la parte inferior para copiarlas todas"
+    },
     "dictation": {
       "tip_title": "Tip",
       "tip1": "Dictar es un acto de comunicación, tanto la app como el paciente necesitan entenderte claramante.",

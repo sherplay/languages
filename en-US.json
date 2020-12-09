@@ -246,6 +246,10 @@
       "tip8": "When giving an ANAMNESIS, remember to mention: Main complaint? When? How? What have you tried to fix it? If it's too long or has multiple complaints, use multiple notes for it.",
       "tip9": "When you give a PHYSICAL EXAM, follow a scheme of how you report the physical findings: Inspection, Palpation, Maneuvers, etc.",
       "tip_title": "Tip"
+    },
+    "first_copy_web": {
+      "title": "Copy & Paste",
+      "body": "Click on a single note to copy it to the clipboard, or use the button at the bottom to copy them all"
     }
   },
   "btn_done": "Done",
