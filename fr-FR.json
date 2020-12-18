@@ -249,7 +249,7 @@
     },
     "first_copy_web": {
       "title": "Copier et coller",
-      "body": "Cliquez sur l'une de vos notes pour la copier dans le presse-papiers. Vous pouvez copier toutes les notes avec le bouton en bas"
+      "body": "Cliquez sur une note pour la modifier ou double-cliquez pour la copier dans le presse-papiers. Vous pouvez copier toutes les notes avec le bouton en bas. Faites-les glisser vers la droite pour leur attribuer une catégorie."
     }
   },
   "no": "Non",

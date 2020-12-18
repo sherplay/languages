@@ -248,7 +248,7 @@
     },
     "first_copy_web": {
       "title": "Còpia i enganxa",
-      "body": "Fes clic a una de les teves notes per copiar-la a al porta-retalls. Pots copiar totes les notes amb el botó a la part inferior"
+      "body": "Fes clic a una nota per editar-la o doble-clic per copiar-la a al porta-retalls. Pots copiar totes les notes amb el botó a la part inferior. Deslizalas a la dreta per assignar-los una categoria."
     }
   },
   "btn_done": "Fet",

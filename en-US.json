@@ -249,7 +249,7 @@
     },
     "first_copy_web": {
       "title": "Copy & Paste",
-      "body": "Click on one of your notes to copy it to the clipboard. You can copy all the notes with the button at the bottom"
+      "body": "Click on a note to edit it or double-click to copy it to the clipboard. You can copy all the notes with the button at the bottom. Swipe them to the right to assign them a category."
     }
   },
   "btn_done": "Done",
