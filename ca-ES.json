@@ -264,5 +264,11 @@
   "Plan": "Pla",
   "copied": "Copiat a l'portapapers",
   "copied_note": "Nota copiada a al porta-retalls",
-  "Search": "Cerca"
+  "Search": "Cerca",
+  "sort_cases": {
+    "alpha_order": "Ordre alfabètic",
+    "creation_order": "Data creació",
+    "title": "Ordenar casos",
+    "update_order": "Data modificació"
+  }
 }

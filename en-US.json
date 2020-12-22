@@ -265,5 +265,11 @@
   "Plan": "Plan",
   "copied": "Copied to clipboard",
   "copied_note": "Note copied to clipboard",
-  "Search": "Search"
+  "Search": "Search",
+  "sort_cases": {
+    "alpha_order": "Alphabetical order",
+    "creation_order": "Creation date",
+    "title": "Sort Cases",
+    "update_order": "Modification date"
+  }
 }
