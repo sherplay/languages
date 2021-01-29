@@ -170,6 +170,22 @@
         "content": "No teniu temps de corregir o classificar les notes del vostre telèfon durant la visita? No hi ha cap problema, podeu fer-ho fàcilment a la versió d'escriptori, tal com ho feu al telèfon.",
         "title": "Classifica i corregeix"
       }
+    },
+    "desktopinfo": {
+      "body": "Sabies que pots accedir a les teves notes des del teu ordinador? Còpia i enganxa on les necessitis, en segons?",
+      "cta_title": "Només has d'accedir a la següent adreça usant el teu navegador:",
+      "cta_url": "http://beeseet.web.app",
+      "header": "Les teves notes, on les vulguis",
+      "title": "Desktop app"
+    },
+    "purchase": {
+      "month": "mes",
+      "monthly": "mensual",
+      "the_first": "El primer",
+      "then": "Després",
+      "title": "Uneix-te a la revolució clínica avui!",
+      "year": "any",
+      "yearly": "anual"
     }
   },
   "popups": {

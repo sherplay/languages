@@ -166,6 +166,22 @@
         "content": "Vous n'avez pas le temps de corriger ou de classer les notes sur votre téléphone pendant la visite? Pas de problème, vous pouvez le faire facilement sur la version de bureau, comme vous le faites sur votre téléphone.",
         "title": "Classer et corriger"
       }
+    },
+    "desktopinfo": {
+      "body": "Saviez-vous que vous pouvez accéder à vos notes depuis votre ordinateur? Copiez et collez là où vous en avez besoin, en quelques secondes?",
+      "cta_title": "Vous n'avez qu'à accéder à l'adresse suivante à l'aide de votre navigateur:",
+      "cta_url": "http://beeseet.web.app",
+      "header": "Vos notes, où que vous soyez",
+      "title": "Desktop app"
+    },
+    "purchase": {
+      "month": "mois",
+      "monthly": "mensuel",
+      "the_first": "Le premier",
+      "then": "Alors",
+      "title": "Rejoignez la révolution clinique dès aujourd'hui!",
+      "year": "an",
+      "yearly": "annuel"
     }
   },
   "popups": {

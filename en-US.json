@@ -159,6 +159,22 @@
         "content": "Don't have time to correct or classify the notes on your phone during the visit? No problem, you can do it easily on the desktop version, just as you do on your phone.",
         "title": "Classify and correct"
       }
+    },
+    "desktopinfo": {
+      "body": "Did you know that you can access your notes from your computer? Copy and paste where you need them, in seconds?",
+      "cta_title": "You only have to access the following address using your browser:",
+      "cta_url": "http://beeseet.web.app",
+      "header": "Your notes, where you want them",
+      "title": "Desktop app"
+    },
+    "purchase": {
+      "month": "month",
+      "monthly": "monthly",
+      "the_first": "The first",
+      "then": "Then",
+      "title": "Join the clinical revolution today!",
+      "year": "year",
+      "yearly": "annual"
     }
   },
   "popups": {

@@ -59,6 +59,22 @@
       "no_results": "No hay resultados",
       "change_terms": "Intenta con otros términos de búsqueda"
     },
+    "desktopinfo": {
+      "title": "Desktop app",
+      "header": "Tus notas, donde las quieras",
+      "body": "¿Sabías que puedes acceder a tus notas desde tu ordenador? Copia y pega donde las necesites, en segundos?",
+      "cta_title": "Solo debes acceder a la siguiente dirección usando tu navegador:",
+      "cta_url": "http://beeseet.web.app"
+    },
+    "purchase": {
+      "title": "¡Únete a la revolución clínica hoy!",
+      "the_first": "El primer",
+      "month": "mes",
+      "year": "año",
+      "then": "Luego",
+      "monthly": "mensual",
+      "yearly": "anual"
+    },
     "pics": {
       "tooltip_undo": "Deshacer",
       "tooltip_redo": "Rehacer",
