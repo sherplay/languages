@@ -79,7 +79,7 @@
       "cta_url": "http://beeseet.web.app",
       "help_cta": "Mira un tutorial",
       "help_url": "https://vimeo.com/505290279",
-      "share_prefix": "Visita Beeseet Desktop en"
+      "share_prefix": "Accede a Beeseet Desktop en"
     },
     "purchase": {
       "title": "Dicta tus notas clínicas, Beeseet las transcribe y organiza",
@@ -90,6 +90,11 @@
       "monthly": "mensual",
       "yearly": "anual",
       "promo_btn": "Canjea tu cupón"
+    },
+    "legal": {
+      "title": "Legal",
+      "policy": "Política de privacidad",
+      "terms": "Términos y condiciones"
     },
     "pics": {
       "tooltip_undo": "Deshacer",

@@ -180,7 +180,7 @@
       "title": "Beeseet Desktop",
       "help_cta": "Mira un tutorial",
       "help_url": "https://vimeo.com/505290279",
-      "share_prefix": "Visita Beeseet Desktop en"
+      "share_prefix": "Accedeix a Beeseet Desktop en"
     },
     "purchase": {
       "month": "mes",
@@ -202,6 +202,11 @@
       "until": "fins",
       "android_instructions": "Per modificar o cancel·lar la teva subscripció, acudeix a la Play Store al teu mòbil. Obre el menú i localitza Subscripcions. Recorda que encara que cancells, tindràs accés durant el període que ja has pagat.",
       "ios_instructions": "Per modificar o cancel·lar la teva subscripció, en el teu dispositiu iOS, vés a Ajustos, fes click en el teu nom i després entra en Subscripcions. Si no veus l'opció Cancel, la subscripció ja està cancel·lada i no es renovarà. Recorda que encara que cancells, tindràs accés durant el període que ja has pagat."
+    },
+    "legal": {
+      "policy": "Política de privacitat",
+      "terms": "Termes i condicions",
+      "title": "Legal"
     }
   },
   "popups": {

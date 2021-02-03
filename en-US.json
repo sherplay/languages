@@ -169,7 +169,7 @@
       "title": "Beeseet Desktop",
       "help_cta": "Watch a tutorial",
       "help_url": "https://vimeo.com/505290279",
-      "share_prefix": "Visit Beeseet Desktop at"
+      "share_prefix": "Access Beeseet Desktop at"
     },
     "purchase": {
       "month": "month",
@@ -191,6 +191,11 @@
       "until": "until",
       "android_instructions": "To modify or cancel your subscription, go to the Play Store on your mobile. Open the menu and locate Subscriptions. Remember that even if you cancel, you will have access during the period that you have already paid for.",
       "ios_instructions": "To modify or cancel your subscription, on your iOS device, go to Settings, click on your name and then go to Subscriptions. If you don't see the Cancel option, your subscription is already canceled and will not be renewed. Remember that even if you cancel, you will have access during the period that you have already paid for."
+    },
+    "legal": {
+      "policy": "Privacy Policy",
+      "terms": "Terms and Conditions",
+      "title": "Legal"
     }
   },
   "popups": {
