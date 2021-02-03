@@ -62,7 +62,12 @@
     },
     "your_subscription": {
       "title": "Suscripción",
-      "header": "Suscripción vigente"
+      "subscription": "Suscripción",
+      "last_payment": "Último pago",
+      "subscribed_since": "Suscrito desde",
+      "free_trial": "Free trial",
+      "intro_price": "Precio introductorio",
+      "until": "hasta"
     },
     "desktopinfo": {
       "title": "Desktop app",

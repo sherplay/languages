@@ -188,6 +188,15 @@
       "year": "any",
       "yearly": "anual",
       "promo_btn": "Tens un cupó?"
+    },
+    "your_subscription": {
+      "free_trial": "Free trial",
+      "intro_price": "Preu introductori",
+      "last_payment": "Últim pagament",
+      "subscribed_since": "Subscrit des",
+      "subscription": "Subscripció",
+      "title": "Subscripció",
+      "until": "fins"
     }
   },
   "popups": {

@@ -177,6 +177,15 @@
       "year": "year",
       "yearly": "annual",
       "promo_btn": "Have a coupon?"
+    },
+    "your_subscription": {
+      "free_trial": "Free trial",
+      "intro_price": "Introductory price",
+      "last_payment": "Last payment",
+      "subscribed_since": "Subscribed since",
+      "subscription": "Subscription",
+      "title": "Subscription",
+      "until": "until"
     }
   },
   "popups": {
