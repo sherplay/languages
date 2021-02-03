@@ -67,7 +67,9 @@
       "subscribed_since": "Suscrito desde",
       "free_trial": "Free trial",
       "intro_price": "Precio introductorio",
-      "until": "hasta"
+      "until": "hasta",
+      "ios_instructions": "Para modificar o cancelar tu suscripción, en tu dispositivo iOS, ve a Ajustes, haz click en tu nombre y luego entra en Suscripciones. Si no ves la opción Cancelar, la suscripción ya está cancelada y no se renovará. Recuerda que aunque canceles, tendrás acceso durante el periodo que ya has pagado.",
+      "android_instructions": "Para modificar o cancelar tu suscripción, acude a la Play Store en tu móvil. Abre el menú y localiza Suscripciones. Recuerda que aunque canceles, tendrás acceso durante el periodo que ya has pagado."
     },
     "desktopinfo": {
       "title": "Desktop app",

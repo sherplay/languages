@@ -196,7 +196,9 @@
       "subscribed_since": "Subscrit des",
       "subscription": "Subscripció",
       "title": "Subscripció",
-      "until": "fins"
+      "until": "fins",
+      "android_instructions": "Per modificar o cancel·lar la teva subscripció, acudeix a la Play Store al teu mòbil. Obre el menú i localitza Subscripcions. Recorda que encara que cancells, tindràs accés durant el període que ja has pagat.",
+      "ios_instructions": "Per modificar o cancel·lar la teva subscripció, en el teu dispositiu iOS, vés a Ajustos, fes click en el teu nom i després entra en Subscripcions. Si no veus l'opció Cancel, la subscripció ja està cancel·lada i no es renovarà. Recorda que encara que cancells, tindràs accés durant el període que ja has pagat."
     }
   },
   "popups": {
