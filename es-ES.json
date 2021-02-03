@@ -72,21 +72,23 @@
       "android_instructions": "Para modificar o cancelar tu suscripción, acude a la Play Store en tu móvil. Abre el menú y localiza Suscripciones. Recuerda que aunque canceles, tendrás acceso durante el periodo que ya has pagado."
     },
     "desktopinfo": {
-      "title": "Desktop app",
+      "title": "Beeseet Desktop",
       "header": "Tus notas, donde las quieras",
-      "body": "¿Sabías que puedes acceder a tus notas desde tu ordenador? Copia y pega donde las necesites, en segundos",
-      "cta_title": "Solo debes acceder a la siguiente dirección usando tu navegador:",
-      "cta_url": "http://beeseet.web.app"
+      "body": "Con Beeseet Desktop puedes tener acceso, desde tu ordenador y en tiempo real, a todas tus notas de Beeseet. Edítalas cómodamente y copialas al sistema electrónico de tu lugar de trabajo.",
+      "cta_title": "Visita desde tu ordenador:",
+      "cta_url": "http://beeseet.web.app",
+      "help_cta": "Mira un tutorial",
+      "help_url": "https://vimeo.com/505290279"
     },
     "purchase": {
-      "title": "¡Únete a la revolución clínica hoy!",
+      "title": "Dicta tus notas clínicas, Beeseet las transcribe y organiza",
       "the_first": "El primer",
       "month": "mes",
       "year": "año",
       "then": "Luego",
       "monthly": "mensual",
       "yearly": "anual",
-      "promo_btn": "¿Tienes un cupón?"
+      "promo_btn": "Canjea tu cupón"
     },
     "pics": {
       "tooltip_undo": "Deshacer",
