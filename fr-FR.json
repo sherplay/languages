@@ -175,7 +175,8 @@
       "header": "Vos notes, là où vous en avez besoin",
       "title": "Beeseet Desktop",
       "help_cta": "Regardez un tutoriel",
-      "help_url": "https://vimeo.com/505290279"
+      "help_url": "https://vimeo.com/505290279",
+      "share_prefix": "Visitez Beeseet Desktop au"
     },
     "purchase": {
       "month": "mois",
