@@ -169,11 +169,13 @@
       }
     },
     "desktopinfo": {
-      "body": "Saviez-vous que vous pouvez accéder à vos notes depuis votre ordinateur? Copiez et collez là où vous en avez besoin, en quelques secondes",
+      "body": "Avec Beeseet Desktop, vous pouvez avoir accès, depuis votre ordinateur et en temps réel, à toutes vos notes Beeseet. Modifiez-les confortablement et copiez-les dans le système électronique de votre lieu de travail.",
       "cta_title": "Vous n'avez qu'à accéder à l'adresse suivante à l'aide de votre navigateur:",
       "cta_url": "http://beeseet.web.app",
-      "header": "Vos notes, où que vous soyez",
-      "title": "Desktop app"
+      "header": "Vos notes, là où vous en avez besoin",
+      "title": "Beeseet Desktop",
+      "help_cta": "Regardez un tutoriel",
+      "help_url": "https://vimeo.com/505290279"
     },
     "purchase": {
       "month": "mois",

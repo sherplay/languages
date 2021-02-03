@@ -162,11 +162,13 @@
       }
     },
     "desktopinfo": {
-      "body": "Did you know that you can access your notes from your computer? Copy and paste where you need them, in seconds",
+      "body": "With Beeseet Desktop you can have access, from your computer and in real time, to all your Beeseet notes. Edit them comfortably and copy them to the electronic system at your workplace.",
       "cta_title": "You only have to access the following address using your browser:",
       "cta_url": "http://beeseet.web.app",
-      "header": "Your notes, where you want them",
-      "title": "Desktop app"
+      "header": "Your notes, where you need them",
+      "title": "Beeseet Desktop",
+      "help_cta": "Watch a tutorial",
+      "help_url": "https://vimeo.com/505290279"
     },
     "purchase": {
       "month": "month",

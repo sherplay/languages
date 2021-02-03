@@ -173,11 +173,13 @@
       }
     },
     "desktopinfo": {
-      "body": "Sabies que pots accedir a les teves notes des del teu ordinador? Còpia i enganxa on les necessitis, en segons",
+      "body": "Amb Beeseet Desktop pots tenir accés, des del teu ordinador i en temps real, a totes les teves notes de Beeseet. Edítalas còmodament i copia-a el sistema electrònic del teu lloc de treball.",
       "cta_title": "Només has d'accedir a la següent adreça usant el teu navegador:",
       "cta_url": "http://beeseet.web.app",
-      "header": "Les teves notes, on les vulguis",
-      "title": "Desktop app"
+      "header": "Les teves notes, on les necessitis",
+      "title": "Beeseet Desktop",
+      "help_cta": "Mira un tutorial",
+      "help_url": "https://vimeo.com/505290279"
     },
     "purchase": {
       "month": "mes",
