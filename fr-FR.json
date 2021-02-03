@@ -112,7 +112,8 @@
       },
       "language": "Langage",
       "speech_language": "Langue de dictée",
-      "title": "Réglages"
+      "title": "Réglages",
+      "general": "Général"
     },
     "case": {
       "create_note": "Créer une note",
@@ -197,7 +198,8 @@
       "title": "Abonnement",
       "until": "jusqu'à",
       "android_instructions": "Pour modifier ou annuler votre abonnement, accédez au Play Store sur votre mobile. Ouvrez le menu et localisez Abonnements. N'oubliez pas que même si vous annulez, vous aurez accès pendant la période pour laquelle vous avez déjà payé.",
-      "ios_instructions": "Pour modifier ou annuler votre abonnement, sur votre appareil iOS, allez dans Paramètres, cliquez sur votre nom puis allez dans Abonnements. Si vous ne voyez pas l'option Annuler, votre abonnement est déjà annulé et ne sera pas renouvelé. N'oubliez pas que même si vous annulez, vous aurez accès pendant la période pour laquelle vous avez déjà payé."
+      "ios_instructions": "Pour modifier ou annuler votre abonnement, sur votre appareil iOS, allez dans Paramètres, cliquez sur votre nom puis allez dans Abonnements. Si vous ne voyez pas l'option Annuler, votre abonnement est déjà annulé et ne sera pas renouvelé. N'oubliez pas que même si vous annulez, vous aurez accès pendant la période pour laquelle vous avez déjà payé.",
+      "active": "Actif"
     },
     "legal": {
       "policy": "Politique de confidentialité",
