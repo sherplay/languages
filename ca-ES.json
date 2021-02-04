@@ -191,7 +191,10 @@
       "title": "Dicta les teves notes clíniques, Beeseet les transcriu i organitza",
       "year": "any",
       "yearly": "anual",
-      "promo_btn": "Canvia els teu cupó"
+      "promo_btn": "Canvia els teu cupó",
+      "for": "per",
+      "free": "Gratis",
+      "week": "setmana(es)"
     },
     "your_subscription": {
       "free_trial": "Free trial",

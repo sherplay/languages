@@ -180,7 +180,10 @@
       "title": "Dictate your clinical notes, Beeseet transcribes and organizes them",
       "year": "year",
       "yearly": "annual",
-      "promo_btn": "Redeem your coupon"
+      "promo_btn": "Redeem your coupon",
+      "for": "for",
+      "free": "Free",
+      "week": "week(s)"
     },
     "your_subscription": {
       "free_trial": "Free trial",

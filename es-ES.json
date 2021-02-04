@@ -85,8 +85,11 @@
     "purchase": {
       "title": "Dicta tus notas clínicas, Beeseet las transcribe y organiza",
       "the_first": "El primer",
-      "month": "mes",
-      "year": "año",
+      "for": "por",
+      "free": "Gratis",
+      "week": "semana(s)",
+      "month": "mes(es)",
+      "year": "año(s)",
       "then": "Luego",
       "monthly": "mensual",
       "yearly": "anual",

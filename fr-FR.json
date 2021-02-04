@@ -187,7 +187,10 @@
       "title": "Dictez vos notes cliniques, Beeseet les transcrit et les organise",
       "year": "an",
       "yearly": "annuel",
-      "promo_btn": "Échangez votre coupon"
+      "promo_btn": "Échangez votre coupon",
+      "for": "pour",
+      "free": "Libre",
+      "week": "semaine(s)"
     },
     "your_subscription": {
       "free_trial": "Free trial",
