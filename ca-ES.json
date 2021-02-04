@@ -194,7 +194,12 @@
       "promo_btn": "Canvia els teu cupó",
       "for": "per",
       "free": "Gratis",
-      "week": "setmana(es)"
+      "week": "setmana",
+      "day": "dia",
+      "days": "dies",
+      "months": "mesos",
+      "weeks": "setmanes",
+      "years": "anys"
     },
     "your_subscription": {
       "free_trial": "Free trial",

@@ -190,7 +190,12 @@
       "promo_btn": "Échangez votre coupon",
       "for": "pour",
       "free": "Libre",
-      "week": "semaine(s)"
+      "week": "semaine",
+      "day": "jour",
+      "days": "jours",
+      "months": "mois",
+      "weeks": "semaines",
+      "years": "années"
     },
     "your_subscription": {
       "free_trial": "Free trial",

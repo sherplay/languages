@@ -183,7 +183,12 @@
       "promo_btn": "Redeem your coupon",
       "for": "for",
       "free": "Free",
-      "week": "week(s)"
+      "week": "week",
+      "day": "day",
+      "days": "days",
+      "months": "months",
+      "weeks": "weeks",
+      "years": "years"
     },
     "your_subscription": {
       "free_trial": "Free trial",
