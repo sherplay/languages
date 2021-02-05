@@ -190,7 +190,8 @@
       "weeks": "weeks",
       "years": "years",
       "temp_offer": "Introductory offer",
-      "restore": "Restore purchase"
+      "restore": "Restore purchase",
+      "android_promo": "You can use a promo code by changing the payment method when subscribing"
     },
     "your_subscription": {
       "free_trial": "Free trial",
