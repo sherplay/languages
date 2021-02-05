@@ -199,7 +199,9 @@
       "days": "dies",
       "months": "mesos",
       "weeks": "setmanes",
-      "years": "anys"
+      "years": "anys",
+      "temp_offer": "Oferta introductòria",
+      "restore": "Restaurar compra prèvia"
     },
     "your_subscription": {
       "free_trial": "Free trial",

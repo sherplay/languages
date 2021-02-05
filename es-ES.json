@@ -98,7 +98,9 @@
       "then": "Luego",
       "monthly": "mensual",
       "yearly": "anual",
-      "promo_btn": "Canjea tu cupón"
+      "promo_btn": "Canjea tu cupón",
+      "temp_offer": "Oferta introductoria",
+      "restore": "Restaurar compra previa"
     },
     "legal": {
       "title": "Legal",

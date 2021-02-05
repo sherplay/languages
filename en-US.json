@@ -188,7 +188,9 @@
       "days": "days",
       "months": "months",
       "weeks": "weeks",
-      "years": "years"
+      "years": "years",
+      "temp_offer": "Introductory offer",
+      "restore": "Restore previous purchase"
     },
     "your_subscription": {
       "free_trial": "Free trial",
