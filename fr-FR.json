@@ -198,7 +198,8 @@
       "years": "années",
       "temp_offer": "Offre de lancement",
       "restore": "Restaurer l'achat",
-      "android_promo": "Si vous avez un coupon, vous pouvez l'utiliser en le sélectionnant comme mode de paiement lors de votre souscription"
+      "android_promo": "Si vous avez un coupon, vous pouvez l'utiliser en le sélectionnant comme mode de paiement lors de votre souscription",
+      "prefix": "Abonnement"
     },
     "your_subscription": {
       "free_trial": "Free trial",
