@@ -202,7 +202,8 @@
       "prefix": "Abonnement",
       "first_prefix_she": "la première",
       "first_prefix_he": "le premier",
-      "cancel_anytime": "Annuler à tout moment"
+      "cancel_anytime": "l'annuler à tout moment",
+      "free_trial_suffix": "par ESSAI GRATUIT"
     },
     "your_subscription": {
       "free_trial": "Free trial",
