@@ -192,7 +192,8 @@
       "temp_offer": "Introductory offer",
       "restore": "Restore purchase",
       "android_promo": "If you have a coupon, you can redeem it by selecting it as a payment method when subscribing",
-      "prefix": "Subscription"
+      "prefix": "Subscription",
+      "first_prefix_she": "the first"
     },
     "your_subscription": {
       "free_trial": "Free trial",

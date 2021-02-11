@@ -83,6 +83,8 @@
       "share_prefix": "Accede a Beeseet Desktop en"
     },
     "purchase": {
+      "first_prefix_she": "la primera",
+      "first_prefix_he": "el primer",
       "title": "Dicta tus notas clínicas, Beeseet las transcribe y organiza",
       "the_first": "El primer",
       "for": "por",
