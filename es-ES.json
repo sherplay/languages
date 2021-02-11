@@ -104,7 +104,8 @@
       "promo_btn": "Canjea tu cupón",
       "temp_offer": "Oferta introductoria",
       "restore": "Restaurar compra",
-      "android_promo": "Si tienes un cupón, puedes canjearlo seleccionándolo como forma de pago al suscribirte"
+      "cancel_anytime": "Cancela en cualquier momento",
+      "android_promo": "Si tienes un cupón, puedes canjearlo accediendo al menu de tu forma de pago al suscribirte"
     },
     "legal": {
       "title": "Legal",

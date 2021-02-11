@@ -191,9 +191,11 @@
       "years": "years",
       "temp_offer": "Introductory offer",
       "restore": "Restore purchase",
-      "android_promo": "If you have a coupon, you can redeem it by selecting it as a payment method when subscribing",
+      "android_promo": "If you have a coupon, you can redeem it by accessing the menu of your payment method when subscribing",
       "prefix": "Subscription",
-      "first_prefix_she": "the first"
+      "first_prefix_she": "the first",
+      "first_prefix_he": "the first",
+      "cancel_anytime": "Cancel at any time"
     },
     "your_subscription": {
       "free_trial": "Free trial",

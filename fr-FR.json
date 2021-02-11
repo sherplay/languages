@@ -198,9 +198,11 @@
       "years": "années",
       "temp_offer": "Offre de lancement",
       "restore": "Restaurer l'achat",
-      "android_promo": "Si vous avez un coupon, vous pouvez l'utiliser en le sélectionnant comme mode de paiement lors de votre souscription",
+      "android_promo": "Si vous avez un coupon, vous pouvez l'utiliser en accédant au menu de votre mode de paiement lors de votre inscription",
       "prefix": "Abonnement",
-      "first_prefix_she": "la première"
+      "first_prefix_she": "la première",
+      "first_prefix_he": "le premier",
+      "cancel_anytime": "Annuler à tout moment"
     },
     "your_subscription": {
       "free_trial": "Free trial",

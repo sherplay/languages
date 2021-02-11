@@ -202,9 +202,11 @@
       "years": "anys",
       "temp_offer": "Oferta introductòria",
       "restore": "Restaurar compra",
-      "android_promo": "Si tens un cupó, pots canviar-seleccionant com a forma de pagament a l'subscriure",
+      "android_promo": "Si tens un cupó, pots canviar-accedint a l'menu de la teva forma de pagament a l'subscriure",
       "prefix": "Subscripció",
-      "first_prefix_she": "la primera"
+      "first_prefix_she": "la primera",
+      "first_prefix_he": "el primer",
+      "cancel_anytime": "Cancela en qualsevol moment"
     },
     "your_subscription": {
       "free_trial": "Free trial",
