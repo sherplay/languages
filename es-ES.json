@@ -85,8 +85,8 @@
     },
     "purchase": {
       "title_trial_done": "¡Oooops!",
-      "case_trial_done": "Ya has llegado al límite de casos de la versión gratuita. ¡Suscríbete ya a la versión ilimitada y obtén un mes gratis!",
-      "note_trial_done": "Ya has llegado al límite de notas de la versión gratuita. ¡Suscríbete ya a la versión ilimitada y obtén un mes gratis!",
+      "case_trial_done": "Has llegado al limite de casos de la versión gratuita. Suscríbete a Beeseet para casos y notas ilimitadas",
+      "note_trial_done": "Has llegado al limite de notas de la versión gratuita. Suscríbete a Beeseet para casos y notas ilimitadas",
       "no_thanks": "No, gracias",
       "yes_subscribe": "Suscribirme",
       "first_prefix_she": "la primera",
