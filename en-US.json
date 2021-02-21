@@ -196,7 +196,11 @@
       "first_prefix_she": "the first",
       "first_prefix_he": "the first",
       "cancel_anytime": "cancel it at any time",
-      "free_trial_suffix": "by FREE TRIAL"
+      "free_trial_suffix": "by FREE TRIAL",
+      "case_trial_done": "You have already reached the limit of cases for the free version. Subscribe now to the unlimited version and get one month free!",
+      "no_thanks": "No, thanks",
+      "note_trial_done": "You have already reached the note limit for the free version. Subscribe now to the unlimited version and get one month free!",
+      "yes_subscribe": "Subscribe me"
     },
     "your_subscription": {
       "free_trial": "Free trial",

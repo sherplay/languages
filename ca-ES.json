@@ -207,7 +207,11 @@
       "first_prefix_she": "la primera",
       "first_prefix_he": "el primer",
       "cancel_anytime": "cancel·la en qualsevol moment",
-      "free_trial_suffix": "de FREE TRIAL"
+      "free_trial_suffix": "de FREE TRIAL",
+      "case_trial_done": "Ja has arribat a el límit de casos de la versió gratuïta. Subscriu-te ja a la versió il·limitada i aconsegueix un mes gratis!",
+      "no_thanks": "No, gràcies",
+      "note_trial_done": "Ja has arribat a el límit de notes de la versió gratuïta. Subscriu-te ja a la versió il·limitada i aconsegueix un mes gratis!",
+      "yes_subscribe": "Subscriviu"
     },
     "your_subscription": {
       "free_trial": "Free trial",

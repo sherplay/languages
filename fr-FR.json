@@ -203,7 +203,11 @@
       "first_prefix_she": "la première",
       "first_prefix_he": "le premier",
       "cancel_anytime": "l'annuler à tout moment",
-      "free_trial_suffix": "par ESSAI GRATUIT"
+      "free_trial_suffix": "par ESSAI GRATUIT",
+      "case_trial_done": "Vous avez déjà atteint la limite des cas pour la version gratuite. Abonnez-vous maintenant à la version illimitée et obtenez un mois gratuit!",
+      "no_thanks": "Non merci",
+      "note_trial_done": "Vous avez déjà atteint la limite de notes pour la version gratuite. Abonnez-vous maintenant à la version illimitée et obtenez un mois gratuit!",
+      "yes_subscribe": "Inscrivez-moi"
     },
     "your_subscription": {
       "free_trial": "Free trial",

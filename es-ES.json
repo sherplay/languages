@@ -83,6 +83,10 @@
       "share_prefix": "Accede a Beeseet Desktop en"
     },
     "purchase": {
+      "case_trial_done": "Ya has llegado al límite de casos de la versión gratuita. ¡Suscríbete ya a la versión ilimitada y obtén un mes gratis!",
+      "note_trial_done": "Ya has llegado al límite de notas de la versión gratuita. ¡Suscríbete ya a la versión ilimitada y obtén un mes gratis!",
+      "no_thanks": "No, gracias",
+      "yes_subscribe": "Suscribirme",
       "first_prefix_she": "la primera",
       "first_prefix_he": "el primer",
       "title": "Dicta tus notas clínicas, Beeseet las transcribe y organiza",
