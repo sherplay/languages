@@ -62,6 +62,7 @@
     },
     "your_subscription": {
       "title": "Suscripción",
+      "subtitle": "Consulta suscripción / Restaura compra",
       "active": "Activa",
       "subscription": "Suscripción",
       "last_payment": "Último pago",
