@@ -83,6 +83,7 @@
       "share_prefix": "Accede a Beeseet Desktop en"
     },
     "purchase": {
+      "title_trial_done": "¡Oooops!",
       "case_trial_done": "Ya has llegado al límite de casos de la versión gratuita. ¡Suscríbete ya a la versión ilimitada y obtén un mes gratis!",
       "note_trial_done": "Ya has llegado al límite de notas de la versión gratuita. ¡Suscríbete ya a la versión ilimitada y obtén un mes gratis!",
       "no_thanks": "No, gracias",

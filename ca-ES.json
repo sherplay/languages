@@ -211,7 +211,8 @@
       "case_trial_done": "Ja has arribat a el límit de casos de la versió gratuïta. Subscriu-te ja a la versió il·limitada i aconsegueix un mes gratis!",
       "no_thanks": "No, gràcies",
       "note_trial_done": "Ja has arribat a el límit de notes de la versió gratuïta. Subscriu-te ja a la versió il·limitada i aconsegueix un mes gratis!",
-      "yes_subscribe": "Subscriviu"
+      "yes_subscribe": "Subscriviu",
+      "title_trial_done": "¡Oooops!"
     },
     "your_subscription": {
       "free_trial": "Free trial",
