@@ -258,6 +258,11 @@
         "french": "Francés",
         "spanish": "Castellano"
       },
+      "grant_permission": "Permisos de la App",
+      "grant_permission_subtitle": "Valida los permisos de la app",
+      "gran_permission_text": "Valida si necesitas otorgar permisos adicionales a Beeseet presionando el botón",
+      "grant_permission_title": "Permisos",
+      "grant_permission_cta": "Validar permisos",
       "language": "Idioma",
       "general": "General",
       "speech_language": "Idioma del dictado",

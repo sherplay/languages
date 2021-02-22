@@ -117,7 +117,12 @@
       "language": "Idioma",
       "speech_language": "Idioma de el dictat",
       "title": "Preferències",
-      "general": "General"
+      "general": "General",
+      "grant_permission_title": "Permisos",
+      "grant_permission_subtitle": "Valida els permisos de l'app",
+      "grant_permission_cta": "validar permisos",
+      "grant_permission": "Permisos de l'App",
+      "gran_permission_text": "Valida si necessites donar permisos addicionals Beeseet prement el botó"
     },
     "create_case": {
       "case_identifier": "Identificador de el cas",

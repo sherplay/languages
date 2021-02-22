@@ -113,7 +113,12 @@
       "language": "Langage",
       "speech_language": "Langue de dictée",
       "title": "Réglages",
-      "general": "Général"
+      "general": "Général",
+      "grant_permission_title": "Autorisations",
+      "grant_permission_subtitle": "Validez les autorisations de l'application",
+      "grant_permission_cta": "Valider les autorisations",
+      "grant_permission": "Autorisations d'application",
+      "gran_permission_text": "Validez si vous devez accorder des autorisations supplémentaires à Beeseet en appuyant sur le bouton"
     },
     "case": {
       "create_note": "Créer une note",

@@ -81,7 +81,12 @@
         "french": "French",
         "catalan": "Catalan"
       },
-      "general": "General"
+      "general": "General",
+      "grant_permission_title": "Permissions",
+      "grant_permission_subtitle": "Validate the app's permissions",
+      "grant_permission_cta": "Validate permissions",
+      "grant_permission": "App permissions",
+      "gran_permission_text": "Validate if you need to grant additional permissions to Beeseet by pressing the button"
     },
     "export": {
       "what_to_send": "What do you want to send?",
