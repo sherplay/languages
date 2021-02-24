@@ -213,7 +213,8 @@
       "no_thanks": "Non merci",
       "note_trial_done": "Vous avez atteint la limite de notes pour la version gratuite. Abonnez-vous à Beeseet pour un nombre illimité de cas et de notes",
       "yes_subscribe": "Inscrivez-moi",
-      "title_trial_done": "Oops!"
+      "title_trial_done": "Oops!",
+      "menu_cta": "Abonnez-vous maintenant!"
     },
     "your_subscription": {
       "free_trial": "Free trial",

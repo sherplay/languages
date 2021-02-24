@@ -217,7 +217,8 @@
       "no_thanks": "No, gràcies",
       "note_trial_done": "Has arribat a el límit de notes de la versió gratuïta. subscriu-te a Beeseet per a casos i notes il·limitades",
       "yes_subscribe": "Subscriviu",
-      "title_trial_done": "¡Oooops!"
+      "title_trial_done": "¡Oooops!",
+      "menu_cta": "Subscriu-te ja!"
     },
     "your_subscription": {
       "free_trial": "Free trial",

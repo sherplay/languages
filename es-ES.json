@@ -84,6 +84,7 @@
       "share_prefix": "Accede a Beeseet Desktop en"
     },
     "purchase": {
+      "menu_cta": "¡Suscríbete ya!",
       "title_trial_done": "¡Oooops!",
       "case_trial_done": "Has llegado al limite de casos de la versión gratuita. Suscríbete a Beeseet para casos y notas ilimitadas",
       "note_trial_done": "Has llegado al limite de notas de la versión gratuita. Suscríbete a Beeseet para casos y notas ilimitadas",
@@ -258,7 +259,7 @@
         "french": "Francés",
         "spanish": "Castellano"
       },
-      "grant_permission": "Permisos de la App",
+      "grant_permission": "Permisos",
       "grant_permission_subtitle": "Valida los permisos de la app",
       "gran_permission_text": "Valida si necesitas otorgar permisos adicionales a Beeseet presionando el botón",
       "grant_permission_title": "Permisos",

@@ -206,7 +206,8 @@
       "no_thanks": "No, thanks",
       "note_trial_done": "You have reached the note limit for the free version. Subscribe to Beeseet for unlimited cases and notes",
       "yes_subscribe": "Subscribe me",
-      "title_trial_done": "Oooops!"
+      "title_trial_done": "Oooops!",
+      "menu_cta": "Subscribe now!"
     },
     "your_subscription": {
       "free_trial": "Free trial",
