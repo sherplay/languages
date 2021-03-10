@@ -124,7 +124,8 @@
       "create_note": "Créer une note",
       "no_notes_desc": "Commencez par dicter votre première note!",
       "no_notes_title": "Pas encore de notes",
-      "no_notes_placeholder": "Saisissez le texte de cette note ici ..."
+      "no_notes_placeholder": "Saisissez le texte de cette note ici ...",
+      "no_notes_desc_web": "Enregistrez des notes pour ce cas à partir de l'application Beeseet et vous les verrez apparaître ici en temps réel."
     },
     "create_case": {
       "added": "Cas ajouté",

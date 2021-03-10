@@ -141,7 +141,8 @@
       "create_note": "Crea una nota",
       "no_notes_desc": "Comença dictant la teva primera nota!",
       "no_notes_title": "Encara no hi ha notes",
-      "no_notes_placeholder": "Introduïu el text d'aquesta nota aquí ..."
+      "no_notes_placeholder": "Introduïu el text d'aquesta nota aquí ...",
+      "no_notes_desc_web": "Grava notes per a aquest cas des de l'app de Beeseet i les veuràs aparèixer aquí en temps real."
     },
     "search": {
       "change_terms": "Intenta amb altres termes de cerca",

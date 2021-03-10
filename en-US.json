@@ -130,7 +130,8 @@
       "create_note": "Create a note",
       "no_notes_desc": "Start by dictating your first note!",
       "no_notes_title": "No notes yet",
-      "no_notes_placeholder": "Enter text of this note here..."
+      "no_notes_placeholder": "Enter text of this note here...",
+      "no_notes_desc_web": "Record notes for this case from the Beeseet app and you will see them appear here in real time."
     },
     "search": {
       "change_terms": "Try with different search terms",
