@@ -321,7 +321,7 @@
     },
     "first_copy_web": {
       "title": "Copia y pega",
-      "body": "Haz clic en una nota para editarla o doble-clic para copiarla al portapapeles. Puedes copiar todas las notas con el botón en la parte inferior. Deslizalas a la derecha para asignarles una categoría."
+      "body": "Para editar una nota haz click en ella. Cópiala al portapapeles con un doble-clic. Puedes copiar un grupo de notas con el botón circular en la parte inferior. Desliza una nota a la derecha para asignarle una categoría."
     },
     "dictation": {
       "tip_title": "Tip",

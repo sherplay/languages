@@ -316,7 +316,7 @@
     },
     "first_copy_web": {
       "title": "Copy & Paste",
-      "body": "Click on a note to edit it or double-click to copy it to the clipboard. You can copy all the notes with the button at the bottom. Swipe them to the right to assign them a category."
+      "body": "To edit a note, click on it. Copy it to the clipboard with a double-click. You can copy a group of notes with the circular button at the bottom. Swipe a note to the right to assign it a category."
     }
   },
   "btn_done": "Done",
